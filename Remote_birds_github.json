@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "source": "github",
+  "generatedAt": "2026-06-28T00:00:00Z",
+  "birds": [
+    {
+      "id": "gh-lesser-flamingo",
+      "name": "Lesser Flamingo",
+      "scientificName": "Phoeniconaias minor",
+      "description": "The most numerous flamingo at Lake Manyara, known for its vibrant pink plumage. Gathers in vast flocks, feeding on algae.",
+      "location": "Lake Manyara National Park, Tanzania",
+      "bestTime": "Wet season (Nov–May), peak congregations May–July",
+      "status": "Near Threatened",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Lakeshore",
+      "rating": 4.6,
+      "sightings": 512,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/1.jpg",
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/2.jpg",
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/3.jpg"
+      ],
+      "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/call.mp3"
+    },
+    {
+      "id": "gh-carmine-bee-eater",
+      "name": "Carmine Bee-eater",
+      "scientificName": "Merops nubicus",
+      "description": "A stunningly beautiful bee-eater with a vibrant carmine-red body and a long, pointed bill.",
+      "location": "Open woodlands and savannas near rivers, sub-Saharan Africa",
+      "bestTime": "All day · often in large, noisy flocks",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Riverbank",
+      "rating": 4.8,
+      "sightings": 203,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/carmine_bee_eater/1.jpg",
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/carmine_bee_eater/2.jpg"
+      ],
+      "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/carmine_bee_eater/call.mp3"
+    },
+    {
+      "id": "gh-grey-crowned-crane",
+      "name": "Grey Crowned Crane",
+      "scientificName": "Balearica regulorum",
+      "description": "A tall, elegant crane with a golden crown of stiff feathers and a black and white face.",
+      "location": "Wetlands and grasslands of East and Southern Africa",
+      "bestTime": "All day · flocks visible at dawn and dusk",
+      "status": "Endangered",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.9,
+      "sightings": 118,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/grey_crowned_crane/1.jpg",
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/grey_crowned_crane/2.jpg",
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/grey_crowned_crane/3.jpg"
+      ],
+      "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/grey_crowned_crane/call.mp3"
+    },
+    {
+      "id": "gh-malachite-kingfisher",
+      "name": "Malachite Kingfisher",
+      "scientificName": "Corythornis cristatus",
+      "description": "A tiny, vibrant kingfisher with a brilliant blue back and a red bill, found near water.",
+      "location": "Ponds, streams, and lakes throughout sub-Saharan Africa",
+      "bestTime": "All day, perched on a reed or branch over water",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "All Day",
+      "habitatTag": "Waterside",
+      "rating": 4.7,
+      "sightings": 94,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/malachite_kingfisher/1.jpg",
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/malachite_kingfisher/2.jpg"
+      ],
+      "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/malachite_kingfisher/call.mp3"
+    },
+    {
+      "id": "gh-pels-fishing-owl",
+      "name": "Pel's Fishing Owl",
+      "scientificName": "Scotopelia peli",
+      "description": "A large, rufous-coloured owl with powerful talons for catching fish, active at night.",
+      "location": "Rivers and lakes with large trees, Central and Southern Africa",
+      "bestTime": "Dusk and after dark; occasionally roosting by day",
+      "status": "Least Concern",
+      "spotChance": "Rare",
+      "viewing": "Night",
+      "habitatTag": "Riverbank",
+      "rating": 4.9,
+      "sightings": 22,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/pels_fishing_owl/1.jpg",
+        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/pels_fishing_owl/2.jpg"
+      ],
+      "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/pels_fishing_owl/call.mp3"
+    }
+  ]
+}
+
