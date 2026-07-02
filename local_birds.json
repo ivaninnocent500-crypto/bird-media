@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "source": "local",
+  "birds": [
+    {
+      "id": "local-lilac-breasted-roller",
+      "name": "Lilac-breasted Roller",
+      "scientificName": "Coracias caudatus",
+      "description": "Famous for its stunning colors and acrobatic flight displays. A territorial bird often seen perched on acacia trees.",
+      "location": "East Africa — open woodlands and savannas",
+      "bestTime": "Year-round · mornings & late afternoons",
+      "status": "Least Concern",
+      "spotChance": "Very High",
+      "viewing": "Morning",
+      "habitatTag": "Game Drive",
+      "rating": 4.8,
+      "sightings": 128,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "res://lilac_breasted_roller_1",
+        "res://lilac_breasted_roller_2",
+        "res://lilac_breasted_roller_3",
+        "res://lilac_breasted_roller_4",
+        "res://lilac_breasted_roller_5"
+      ],
+      "soundRes": "res://lilac_breasted_roller"
+    },
+    {
+      "id": "local-african-fish-eagle",
+      "name": "African Fish Eagle",
+      "scientificName": "Haliaeetus vocifer",
+      "description": "A large eagle with a powerful build. Its distinctive cry is often described as the voice of Africa.",
+      "location": "Near large lakes, rivers, and dams across sub-Saharan Africa",
+      "bestTime": "All day · most active hunting in the morning",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Waterside",
+      "rating": 4.9,
+      "sightings": 256,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "res://african_fish_eagle_1",
+        "res://africa_fish_esgle_2",
+        "res://africa_fish_esgle_3",
+        "res://africa_fish_esgle_4"
+      ],
+      "soundRes": "res://african_fish_eagle"
+    },
+    {
+      "id": "local-kori-bustard",
+      "name": "Kori Bustard",
+      "scientificName": "Ardeotis kori",
+      "description": "Africa's largest flying bird, known for its long legs and impressive size. Spends most of its time on the ground.",
+      "location": "Serengeti and Maasai Mara open plains",
+      "bestTime": "Year-round · easily spotted in open plains",
+      "status": "Near Threatened",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Grassland",
+      "rating": 4.5,
+      "sightings": 87,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "res://kori_bustard_1",
+        "res://kori_bustard_2",
+        "res://kori_bustard_3"
+      ],
+      "soundRes": "res://kori_bustard"
+    },
+    {
+      "id": "local-shoebill",
+      "name": "Shoebill",
+      "scientificName": "Balaeniceps rex",
+      "description": "A very large stork-like bird with a massive, shoe-shaped bill, found in Central and East Africa.",
+      "location": "Freshwater swamps and marshes, especially Uganda and Zambia",
+      "bestTime": "Early morning & late afternoon, when hunting fish",
+      "status": "Vulnerable",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Swamp",
+      "rating": 4.9,
+      "sightings": 41,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "res://shoebill_1",
+        "res://shoebill_2",
+        "res://shoebill_3"
+      ],
+      "soundRes": "res://african_grey_parrot"
+    },
+    {
+      "id": "local-secretarybird",
+      "name": "Secretarybird",
+      "scientificName": "Sagittarius serpentarius",
+      "description": "A large, terrestrial raptor with a crested head and long legs, famous for stomping on snakes to kill them.",
+      "location": "Open grasslands and savannas of Africa",
+      "bestTime": "Daylight hours, particularly when hunting",
+      "status": "Endangered",
+      "spotChance": "Rare",
+      "viewing": "Midday",
+      "habitatTag": "Grassland",
+      "rating": 4.7,
+      "sightings": 33,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "res://secretarybird_1",
+        "res://secretarybird_2",
+        "res://secretarybird_3"
+      ],
+      "soundRes": "res://african_grey_parrot"
+    }
+  ]
+}
+
