@@ -18,9 +18,9 @@
       "sightings": 512,
       "difficulty": "EASY_TO_SPOT",
       "images": [
-        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/1.jpg",
-        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/2.jpg",
-        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/3.jpg"
+        "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/77964161/1200",
+        "https://cdn.britannica.com/88/588-050-07CF1220/lesser-flamingo-phoeniconaias-minor-namibia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Flock_of_Lesser_Flamingo_along_with_juvenile_near_Jamnagar_railway_stationDSCN1798_1.jpg"
       ],
       "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/lesser_flamingo/call.mp3"
     },
@@ -39,8 +39,8 @@
       "sightings": 203,
       "difficulty": "EASY_TO_SPOT",
       "images": [
-        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/carmine_bee_eater/1.jpg",
-        "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/carmine_bee_eater/2.jpg"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJRougSZf37ojDVaowXxRjtKEfNC9_TPxzYBVPCpsARaUSRj_2ooC4x1W&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3L8-t7ctE0ha38wAWMAPmqxrECl4SU1ykD2ZCnNwbWg&s=10"
       ],
       "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/carmine_bee_eater/call.mp3"
     },
