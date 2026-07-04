@@ -104,6 +104,786 @@
         "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/pels_fishing_owl/2.jpg"
       ],
       "soundUrl": "https://raw.githubusercontent.com/tta-safariguide/bird-media/main/pels_fishing_owl/call.mp3"
+    },
+    {
+      "id": "gh-african-fish-eagle",
+      "name": "African Fish Eagle",
+      "scientificName": "Haliaeetus vocifer",
+      "description": "A striking raptor with a white head and chest, chestnut body, and a loud, distinctive ringing call often called the 'voice of Africa'.",
+      "location": "Lakes and rivers across sub-Saharan Africa",
+      "bestTime": "Morning, perched on dead trees near water",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "Morning",
+      "habitatTag": "Lakeshore",
+      "rating": 4.9,
+      "sightings": 341,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Fish+Eagle&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Haliaeetus_vocifer"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Fish+Eagle+call&fulltext=1"
+    },
+    {
+      "id": "gh-shoebill",
+      "name": "Shoebill",
+      "scientificName": "Balaeniceps rex",
+      "description": "A huge, prehistoric-looking stork-like bird with an enormous, shoe-shaped bill, known for standing motionless for long periods while hunting.",
+      "location": "Papyrus swamps of Uganda, South Sudan, and Zambia",
+      "bestTime": "Early morning, before it retreats deeper into papyrus",
+      "status": "Vulnerable",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Swamp",
+      "rating": 5.0,
+      "sightings": 15,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Shoebill&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Balaeniceps_rex"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Shoebill+call&fulltext=1"
+    },
+    {
+      "id": "gh-secretarybird",
+      "name": "Secretarybird",
+      "scientificName": "Sagittarius serpentarius",
+      "description": "A tall, long-legged bird of prey that hunts on foot in open grassland, famous for stomping snakes and other prey to death.",
+      "location": "Savanna and grasslands across sub-Saharan Africa",
+      "bestTime": "Morning and late afternoon while foraging on the ground",
+      "status": "Endangered",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Savanna",
+      "rating": 4.8,
+      "sightings": 87,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Secretarybird&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Sagittarius_serpentarius"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Secretarybird+call&fulltext=1"
+    },
+    {
+      "id": "gh-southern-ground-hornbill",
+      "name": "Southern Ground Hornbill",
+      "scientificName": "Bucorvus leadbeateri",
+      "description": "A large, mostly black hornbill with bare red skin on the face and throat, walking in small family groups across open savanna.",
+      "location": "Savanna and open woodland, Southern and East Africa",
+      "bestTime": "Morning, foraging in family groups on the ground",
+      "status": "Vulnerable",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Savanna",
+      "rating": 4.7,
+      "sightings": 76,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Southern+Ground+Hornbill&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Bucorvus_leadbeateri"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Southern+Ground+Hornbill+call&fulltext=1"
+    },
+    {
+      "id": "gh-lilac-breasted-roller",
+      "name": "Lilac-breasted Roller",
+      "scientificName": "Coracias caudatus",
+      "description": "One of Africa's most colourful birds, with a lilac breast, turquoise belly, and greenish back, often perched conspicuously on low branches.",
+      "location": "Savanna and open woodland, East and Southern Africa",
+      "bestTime": "All day, perched on exposed branches",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Savanna",
+      "rating": 4.9,
+      "sightings": 288,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Lilac-breasted+Roller&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Coracias_caudatus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Lilac-breasted+Roller+call&fulltext=1"
+    },
+    {
+      "id": "gh-hoopoe",
+      "name": "African Hoopoe",
+      "scientificName": "Upupa africana",
+      "description": "A striking bird with cinnamon plumage, a crest it raises when alarmed, and boldly barred black-and-white wings, often seen probing the ground for insects.",
+      "location": "Open woodland and gardens across sub-Saharan Africa",
+      "bestTime": "Morning, foraging on lawns and open ground",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Woodland",
+      "rating": 4.5,
+      "sightings": 61,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Hoopoe&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Upupa_africana"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Hoopoe+call&fulltext=1"
+    },
+    {
+      "id": "gh-marabou-stork",
+      "name": "Marabou Stork",
+      "scientificName": "Leptoptilos crumenifer",
+      "description": "A large, ungainly stork with a bald pink head and a pendulous throat sac, often seen scavenging near carcasses or landfills.",
+      "location": "Wetlands, savanna, and towns across sub-Saharan Africa",
+      "bestTime": "All day, near carcasses, rivers, or rubbish sites",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Wetland",
+      "rating": 3.9,
+      "sightings": 154,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Marabou+Stork&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Leptoptilos_crumenifer"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Marabou+Stork+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-jacana",
+      "name": "African Jacana",
+      "scientificName": "Actophilornis africanus",
+      "description": "A striking wader with chestnut plumage, a blue frontal shield, and remarkably long toes that let it walk on floating vegetation.",
+      "location": "Freshwater lakes and lily-covered wetlands across sub-Saharan Africa",
+      "bestTime": "All day, walking across lily pads and floating plants",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Wetland",
+      "rating": 4.6,
+      "sightings": 132,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Jacana&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Actophilornis_africanus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Jacana+call&fulltext=1"
+    },
+    {
+      "id": "gh-greater-flamingo",
+      "name": "Greater Flamingo",
+      "scientificName": "Phoenicopterus roseus",
+      "description": "The largest flamingo species, taller and paler pink than the Lesser Flamingo, often seen wading and filter-feeding alongside it.",
+      "location": "Rift Valley lakes and coastal wetlands across Africa",
+      "bestTime": "All day, wading in shallow alkaline lakes",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Lakeshore",
+      "rating": 4.5,
+      "sightings": 267,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Greater+Flamingo&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Phoenicopterus_roseus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Greater+Flamingo+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-grey-hornbill",
+      "name": "African Grey Hornbill",
+      "scientificName": "Lophoceros nasutus",
+      "description": "A slender grey hornbill with a pale-based, dark-tipped bill, common in open woodland and readily seen perched or flying between trees.",
+      "location": "Savanna woodland across sub-Saharan Africa",
+      "bestTime": "All day, calling from treetops",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Woodland",
+      "rating": 4.2,
+      "sightings": 176,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Grey+Hornbill&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Lophoceros_nasutus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Grey+Hornbill+call&fulltext=1"
+    },
+    {
+      "id": "gh-southern-carmine-bee-eater",
+      "name": "Little Bee-eater",
+      "scientificName": "Merops pusillus",
+      "description": "A small, brilliantly coloured bee-eater with a green back, yellow throat, and black gorget, usually seen in pairs on low perches.",
+      "location": "Grassland and woodland edges across sub-Saharan Africa",
+      "bestTime": "All day, hawking insects from low perches",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Grassland",
+      "rating": 4.7,
+      "sightings": 198,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Little+Bee-eater&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Merops_pusillus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Little+Bee-eater+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-darter",
+      "name": "African Darter",
+      "scientificName": "Anhinga rufa",
+      "description": "A slender waterbird with a long, snake-like neck and dagger-shaped bill, often seen swimming with only its head above water.",
+      "location": "Lakes and rivers across sub-Saharan Africa",
+      "bestTime": "Morning, drying wings on branches after diving",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Lakeshore",
+      "rating": 4.3,
+      "sightings": 88,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Darter&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Anhinga_rufa"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Darter+call&fulltext=1"
+    },
+    {
+      "id": "gh-hamerkop",
+      "name": "Hamerkop",
+      "scientificName": "Scopus umbretta",
+      "description": "A distinctive brown wading bird with a hammer-shaped head silhouette, famous for building enormous stick nests.",
+      "location": "Wetlands, rivers, and dams across sub-Saharan Africa",
+      "bestTime": "All day, wading in shallows or perched near nests",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Wetland",
+      "rating": 4.4,
+      "sightings": 142,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Hamerkop&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Scopus_umbretta"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Hamerkop+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-spoonbill",
+      "name": "African Spoonbill",
+      "scientificName": "Platalea alba",
+      "description": "An all-white wading bird with a distinctive spoon-shaped bill, used to sweep through shallow water in search of small prey.",
+      "location": "Shallow lakes and wetlands across sub-Saharan Africa",
+      "bestTime": "Morning and late afternoon, feeding in shallows",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.2,
+      "sightings": 69,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Spoonbill&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Platalea_alba"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Spoonbill+call&fulltext=1"
+    },
+    {
+      "id": "gh-saddle-billed-stork",
+      "name": "Saddle-billed Stork",
+      "scientificName": "Ephippiorhynchus senegalensis",
+      "description": "Africa's largest stork, with a striking red-and-black bill topped by a yellow saddle-shaped shield, usually seen alone or in pairs.",
+      "location": "Wetlands and floodplains across sub-Saharan Africa",
+      "bestTime": "Morning, stalking prey in shallow water",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.8,
+      "sightings": 54,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Saddle-billed+Stork&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Ephippiorhynchus_senegalensis"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Saddle-billed+Stork+call&fulltext=1"
+    },
+    {
+      "id": "gh-verreauxs-eagle-owl",
+      "name": "Verreaux's Eagle-Owl",
+      "scientificName": "Bubo lacteus",
+      "description": "Africa's largest owl, with distinctive pink eyelids and dark eyes, roosting quietly in large trees by day.",
+      "location": "Woodland and riverine forest across sub-Saharan Africa",
+      "bestTime": "Dusk and night; roosts visible by day in dense foliage",
+      "status": "Least Concern",
+      "spotChance": "Rare",
+      "viewing": "Night",
+      "habitatTag": "Woodland",
+      "rating": 4.8,
+      "sightings": 19,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Verreaux%27s+Eagle-Owl&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Bubo_lacteus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Verreaux%27s+Eagle-Owl+call&fulltext=1"
+    },
+    {
+      "id": "gh-yellow-billed-stork",
+      "name": "Yellow-billed Stork",
+      "scientificName": "Mycteria ibis",
+      "description": "A tall white stork with a bright yellow bill and a bare red face, often seen wading and sweeping its bill side to side in water.",
+      "location": "Wetlands, rivers, and lakes across sub-Saharan Africa",
+      "bestTime": "Morning, feeding in shallow water",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.3,
+      "sightings": 121,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Yellow-billed+Stork&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Mycteria_ibis"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Yellow-billed+Stork+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-paradise-flycatcher",
+      "name": "African Paradise Flycatcher",
+      "scientificName": "Terpsiphone viridis",
+      "description": "A small, agile flycatcher with a chestnut back and, in males, remarkably long streaming tail feathers during the breeding season.",
+      "location": "Forests and wooded gardens across sub-Saharan Africa",
+      "bestTime": "Morning, flitting through mid-level foliage",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Forest",
+      "rating": 4.6,
+      "sightings": 73,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Paradise+Flycatcher&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Terpsiphone_viridis"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Paradise+Flycatcher+call&fulltext=1"
+    },
+    {
+      "id": "gh-crowned-eagle",
+      "name": "African Crowned Eagle",
+      "scientificName": "Stephanoaetus coronatus",
+      "description": "A powerful forest eagle with a short crest and heavily barred underparts, considered one of Africa's most formidable avian predators.",
+      "location": "Dense forest across Central, East, and Southern Africa",
+      "bestTime": "Morning, calling from forest canopy near nest sites",
+      "status": "Near Threatened",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Forest",
+      "rating": 4.9,
+      "sightings": 12,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Crowned+Eagle&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Stephanoaetus_coronatus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Crowned+Eagle+call&fulltext=1"
+    },
+    {
+      "id": "gh-bataleur",
+      "name": "Bateleur",
+      "scientificName": "Terathopius ecaudatus",
+      "description": "A distinctive short-tailed eagle known for its rocking, acrobatic flight style, with a bright red face and legs contrasting black plumage.",
+      "location": "Savanna and open woodland across sub-Saharan Africa",
+      "bestTime": "Midday, soaring on thermals over open country",
+      "status": "Endangered",
+      "spotChance": "Moderate",
+      "viewing": "Afternoon",
+      "habitatTag": "Savanna",
+      "rating": 4.7,
+      "sightings": 58,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Bateleur+eagle&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Terathopius_ecaudatus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Bateleur+call&fulltext=1"
+    },
+    {
+      "id": "gh-white-backed-vulture",
+      "name": "White-backed Vulture",
+      "scientificName": "Gyps africanus",
+      "description": "A large, gregarious vulture with dark plumage and a pale back visible in flight, often seen in numbers at carcasses.",
+      "location": "Savanna across sub-Saharan Africa",
+      "bestTime": "Midday, circling above carcasses on thermals",
+      "status": "Critically Endangered",
+      "spotChance": "Moderate",
+      "viewing": "Afternoon",
+      "habitatTag": "Savanna",
+      "rating": 4.0,
+      "sightings": 47,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=White-backed+Vulture&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Gyps_africanus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=White-backed+Vulture+call&fulltext=1"
+    },
+    {
+      "id": "gh-kori-bustard",
+      "name": "Kori Bustard",
+      "scientificName": "Ardeotis kori",
+      "description": "Africa's heaviest flying bird, a large ground-dwelling bustard with mottled grey-brown plumage, often seen striding through open grassland.",
+      "location": "Savanna and grassland, East and Southern Africa",
+      "bestTime": "Morning and late afternoon, walking in open grassland",
+      "status": "Near Threatened",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Savanna",
+      "rating": 4.5,
+      "sightings": 63,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Kori+Bustard&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Ardeotis_kori"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Kori+Bustard+call&fulltext=1"
+    },
+    {
+      "id": "gh-red-billed-oxpecker",
+      "name": "Red-billed Oxpecker",
+      "scientificName": "Buphagus erythrorhynchus",
+      "description": "A small brown bird often seen clinging to the backs of large mammals like buffalo and giraffe, feeding on ticks and parasites.",
+      "location": "Savanna, on large herbivores across sub-Saharan Africa",
+      "bestTime": "All day, riding on buffalo, giraffe, and antelope",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Savanna",
+      "rating": 4.1,
+      "sightings": 167,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Red-billed+Oxpecker&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Buphagus_erythrorhynchus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Red-billed+Oxpecker+call&fulltext=1"
+    },
+    {
+      "id": "gh-superb-starling",
+      "name": "Superb Starling",
+      "scientificName": "Lamprotornis superbus",
+      "description": "A small, dazzling starling with an iridescent blue-green back and a bright chestnut-orange belly, common and confident around camps.",
+      "location": "Savanna and open woodland, East Africa",
+      "bestTime": "All day, often around lodges and campsites",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Savanna",
+      "rating": 4.6,
+      "sightings": 231,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Superb+Starling&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Lamprotornis_superbus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Superb+Starling+call&fulltext=1"
+    },
+    {
+      "id": "gh-lappet-faced-vulture",
+      "name": "Lappet-faced Vulture",
+      "scientificName": "Torgos tracheliotos",
+      "description": "One of Africa's largest vultures, with a bare pink head, heavy bill, and folds of skin ('lappets') along the neck.",
+      "location": "Savanna and semi-desert across sub-Saharan Africa",
+      "bestTime": "Midday, dominant at carcasses over other vultures",
+      "status": "Endangered",
+      "spotChance": "Rare",
+      "viewing": "Afternoon",
+      "habitatTag": "Savanna",
+      "rating": 4.3,
+      "sightings": 21,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Lappet-faced+Vulture&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Torgos_tracheliotos"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Lappet-faced+Vulture+call&fulltext=1"
+    },
+    {
+      "id": "gh-egyptian-goose",
+      "name": "Egyptian Goose",
+      "scientificName": "Alopochen aegyptiaca",
+      "description": "A common, boldly patterned waterfowl with a distinctive dark eye patch, often found grazing near lakes, rivers, and golf courses.",
+      "location": "Wetlands and grasslands throughout Africa",
+      "bestTime": "All day, grazing near water",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Wetland",
+      "rating": 3.8,
+      "sightings": 189,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Egyptian+Goose&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Alopochen_aegyptiaca"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Egyptian+Goose+call&fulltext=1"
+    },
+    {
+      "id": "gh-pied-kingfisher",
+      "name": "Pied Kingfisher",
+      "scientificName": "Ceryle rudis",
+      "description": "A black-and-white kingfisher known for hovering over water before plunge-diving for fish, common along rivers and lakes.",
+      "location": "Rivers, lakes, and coastlines across sub-Saharan Africa",
+      "bestTime": "All day, hovering and diving over open water",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Waterside",
+      "rating": 4.5,
+      "sightings": 174,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Pied+Kingfisher&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Ceryle_rudis"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Pied+Kingfisher+call&fulltext=1"
+    },
+    {
+      "id": "gh-blacksmith-lapwing",
+      "name": "Blacksmith Lapwing",
+      "scientificName": "Vanellus armatus",
+      "description": "A striking black, white, and grey plover named for its metallic 'tink-tink' alarm call resembling a hammer striking metal.",
+      "location": "Wetland edges and grassland across sub-Saharan Africa",
+      "bestTime": "All day, near water edges, calling loudly when disturbed",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Wetland",
+      "rating": 4.0,
+      "sightings": 112,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Blacksmith+Lapwing&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Vanellus_armatus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Blacksmith+Lapwing+call&fulltext=1"
+    },
+    {
+      "id": "gh-goliath-heron",
+      "name": "Goliath Heron",
+      "scientificName": "Ardea goliath",
+      "description": "The world's largest heron, standing over a metre tall, with slate-grey and chestnut plumage, usually seen alone stalking fish in shallows.",
+      "location": "Wetlands, rivers, and lakes across sub-Saharan Africa",
+      "bestTime": "Morning, standing motionless in shallow water",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.7,
+      "sightings": 44,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Goliath+Heron&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Ardea_goliath"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Goliath+Heron+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-openbill",
+      "name": "African Openbill",
+      "scientificName": "Anastomus lamelligerus",
+      "description": "A dark stork with a distinctive gap between the upper and lower bill, specialised for extracting freshwater mussels and snails.",
+      "location": "Marshes and floodplains across sub-Saharan Africa",
+      "bestTime": "Morning, foraging in shallow marshland",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.0,
+      "sightings": 38,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Openbill&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Anastomus_lamelligerus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Openbill+call&fulltext=1"
+    },
+    {
+      "id": "gh-red-and-yellow-barbet",
+      "name": "Red-and-yellow Barbet",
+      "scientificName": "Trachyphonus erythrocephalus",
+      "description": "A boldly patterned, ground-foraging barbet with a red face, yellow-spotted black back, and loud duetting calls between pairs.",
+      "location": "Dry savanna and thornbush, East Africa",
+      "bestTime": "Morning, foraging on the ground near termite mounds",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Savanna",
+      "rating": 4.6,
+      "sightings": 52,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Red-and-yellow+Barbet&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Trachyphonus_erythrocephalus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Red-and-yellow+Barbet+call&fulltext=1"
+    },
+    {
+      "id": "gh-southern-red-bishop",
+      "name": "Southern Red Bishop",
+      "scientificName": "Euplectes orix",
+      "description": "A small weaver in which breeding males turn a vivid scarlet and black, building woven nests low in reeds over water.",
+      "location": "Wetland reedbeds and grassland, sub-Saharan Africa",
+      "bestTime": "Morning, breeding males displaying over reedbeds",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.4,
+      "sightings": 145,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Southern+Red+Bishop&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Euplectes_orix"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Southern+Red+Bishop+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-skimmer",
+      "name": "African Skimmer",
+      "scientificName": "Rynchops flavirostris",
+      "description": "A striking tern-like bird with a bright orange-red bill whose lower mandible is longer than the upper, used to skim insects and fish from the water surface.",
+      "location": "Sandbanks on large rivers and lakes, sub-Saharan Africa",
+      "bestTime": "Late afternoon, skimming low over calm water",
+      "status": "Near Threatened",
+      "spotChance": "Rare",
+      "viewing": "Afternoon",
+      "habitatTag": "Riverbank",
+      "rating": 4.7,
+      "sightings": 17,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Skimmer&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Rynchops_flavirostris"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Skimmer+call&fulltext=1"
+    },
+    {
+      "id": "gh-yellow-billed-hornbill",
+      "name": "Southern Yellow-billed Hornbill",
+      "scientificName": "Tockus leucomelas",
+      "description": "A common savanna hornbill with a large, curved yellow bill, often seen foraging on the ground in pairs or small groups.",
+      "location": "Dry savanna and woodland, Southern Africa",
+      "bestTime": "All day, foraging on open ground",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Savanna",
+      "rating": 4.2,
+      "sightings": 156,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Southern+Yellow-billed+Hornbill&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Tockus_leucomelas"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Southern+Yellow-billed+Hornbill+call&fulltext=1"
+    },
+    {
+      "id": "gh-black-crake",
+      "name": "Black Crake",
+      "scientificName": "Zapornia flavirostra",
+      "description": "A small, all-black rail with bright yellow bill and red legs, often seen walking on floating vegetation at the water's edge.",
+      "location": "Marshes and vegetated wetlands across sub-Saharan Africa",
+      "bestTime": "Morning, walking along vegetated water edges",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.1,
+      "sightings": 49,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Black+Crake&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Zapornia_flavirostra"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Black+Crake+call&fulltext=1"
+    },
+    {
+      "id": "gh-violet-turaco",
+      "name": "Violet Turaco",
+      "scientificName": "Musophaga violacea",
+      "description": "A large, glossy violet forest bird with a yellow-and-red bill and crimson wing patches, often heard before seen in the canopy.",
+      "location": "Forest and woodland edges, West Africa",
+      "bestTime": "Morning, moving through the upper canopy",
+      "status": "Least Concern",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Forest",
+      "rating": 4.8,
+      "sightings": 14,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Violet+Turaco&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Musophaga_violacea"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Violet+Turaco+call&fulltext=1"
+    },
+    {
+      "id": "gh-grey-go-away-bird",
+      "name": "Grey Go-away-bird",
+      "scientificName": "Corythaixoides concolor",
+      "description": "A pale grey turaco relative with a shaggy crest, named for its nasal 'go-away' call heard across the bush.",
+      "location": "Savanna woodland, Southern and East Africa",
+      "bestTime": "All day, calling loudly from treetops",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Woodland",
+      "rating": 4.0,
+      "sightings": 133,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Grey+Go-away-bird&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Corythaixoides_concolor"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Grey+Go-away-bird+call&fulltext=1"
+    },
+    {
+      "id": "gh-crested-francolin",
+      "name": "Crested Francolin",
+      "scientificName": "Ortygornis sephaena",
+      "description": "A small, streaked ground-dwelling gamebird with a short dark crest, usually seen scurrying through undergrowth in pairs.",
+      "location": "Dry woodland and thicket, East and Southern Africa",
+      "bestTime": "Early morning and dusk, foraging near cover",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Woodland",
+      "rating": 3.9,
+      "sightings": 41,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Crested+Francolin&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Ortygornis_sephaena"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Crested+Francolin+call&fulltext=1"
+    },
+    {
+      "id": "gh-ostrich",
+      "name": "Common Ostrich",
+      "scientificName": "Struthio camelus",
+      "description": "The world's largest and heaviest living bird, flightless with long powerful legs, roaming in small groups across open plains.",
+      "location": "Savanna and semi-arid plains across sub-Saharan Africa",
+      "bestTime": "All day, striding across open grassland",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Savanna",
+      "rating": 4.5,
+      "sightings": 199,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Common+Ostrich&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Struthio_camelus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Common+Ostrich+call&fulltext=1"
     }
   ]
 }
