@@ -884,7 +884,266 @@
         "https://commons.wikimedia.org/wiki/Category:Struthio_camelus"
       ],
       "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Common+Ostrich+call&fulltext=1"
+    },
+    {
+      "id": "gh-martial-eagle",
+      "name": "Martial Eagle",
+      "scientificName": "Polemaetus bellicosus",
+      "description": "Africa's largest eagle, a powerful raptor with a dark hood, spotted underparts, and a wingspan exceeding two metres, capable of taking prey as large as small antelope.",
+      "location": "Savanna and open woodland across sub-Saharan Africa",
+      "bestTime": "Midday, soaring high on thermals or perched on prominent trees",
+      "status": "Endangered",
+      "spotChance": "Rare",
+      "viewing": "Afternoon",
+      "habitatTag": "Savanna",
+      "rating": 4.9,
+      "sightings": 18,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Martial+Eagle&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Polemaetus_bellicosus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Martial+Eagle+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-penguin",
+      "name": "African Penguin",
+      "scientificName": "Spheniscus demersus",
+      "description": "A small black-and-white 'tuxedoed' seabird with a distinctive donkey-like bray, nesting in colonies along the Southern African coastline.",
+      "location": "Coastal colonies of Namibia and South Africa, including Boulders Beach",
+      "bestTime": "All day, on beaches and rocky colonies near Cape Town",
+      "status": "Endangered",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Coastal",
+      "rating": 4.8,
+      "sightings": 96,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Penguin&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Spheniscus_demersus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Penguin+call&fulltext=1"
+    },
+    {
+      "id": "gh-great-white-pelican",
+      "name": "Great White Pelican",
+      "scientificName": "Pelecanus onocrotalus",
+      "description": "A huge white waterbird with a pink-tinged bill and pouch, often seen in large groups on Rift Valley lakes alongside flamingos.",
+      "location": "Rift Valley lakes and freshwater wetlands across sub-Saharan Africa",
+      "bestTime": "All day, floating in groups or fishing cooperatively",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "All Day",
+      "habitatTag": "Lakeshore",
+      "rating": 4.4,
+      "sightings": 71,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Great+White+Pelican&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Pelecanus_onocrotalus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Great+White+Pelican+call&fulltext=1"
+    },
+    {
+      "id": "gh-helmeted-guineafowl",
+      "name": "Helmeted Guineafowl",
+      "scientificName": "Numida meleagris",
+      "description": "A common, gregarious gamebird with a bare bluish head topped by a bony 'helmet' and grey plumage speckled with white spots.",
+      "location": "Savanna and grassland throughout sub-Saharan Africa",
+      "bestTime": "All day, in noisy flocks along roadsides and open ground",
+      "status": "Least Concern",
+      "spotChance": "High",
+      "viewing": "All Day",
+      "habitatTag": "Savanna",
+      "rating": 3.7,
+      "sightings": 224,
+      "difficulty": "EASY_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Helmeted+Guineafowl&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Numida_meleagris"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Helmeted+Guineafowl+call&fulltext=1"
+    },
+    {
+      "id": "gh-vulturine-guineafowl",
+      "name": "Vulturine Guineafowl",
+      "scientificName": "Acryllium vulturinum",
+      "description": "A striking, long-necked guineafowl with cobalt-blue breast feathers, a bare vulture-like head, and a raptor-like gait, found in dry northern bush.",
+      "location": "Dry thornbush and semi-arid savanna, northern Kenya and Horn of Africa",
+      "bestTime": "Morning, walking in tight flocks through dry bush",
+      "status": "Least Concern",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Savanna",
+      "rating": 4.6,
+      "sightings": 20,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Vulturine+Guineafowl&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Acryllium_vulturinum"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Vulturine+Guineafowl+call&fulltext=1"
+    },
+    {
+      "id": "gh-giant-kingfisher",
+      "name": "Giant Kingfisher",
+      "scientificName": "Megaceryle maxima",
+      "description": "Africa's largest kingfisher, with a shaggy dark-spotted crest and chestnut breast, often seen perched quietly over rivers before a heavy plunge-dive.",
+      "location": "Rivers, dams, and estuaries across sub-Saharan Africa",
+      "bestTime": "Morning, perched on branches overhanging water",
+      "status": "Least Concern",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Riverbank",
+      "rating": 4.6,
+      "sightings": 23,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Giant+Kingfisher&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Megaceryle_maxima"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Giant+Kingfisher+call&fulltext=1"
+    },
+    {
+      "id": "gh-woodland-kingfisher",
+      "name": "Woodland Kingfisher",
+      "scientificName": "Halcyon senegalensis",
+      "description": "A vivid blue-and-white kingfisher with a red-and-black bill, known more for its loud, trilling call than for fishing, since it mostly hunts insects.",
+      "location": "Woodland and savanna across sub-Saharan Africa",
+      "bestTime": "All day, calling loudly from exposed perches",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "All Day",
+      "habitatTag": "Woodland",
+      "rating": 4.5,
+      "sightings": 68,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Woodland+Kingfisher&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Halcyon_senegalensis"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Woodland+Kingfisher+call&fulltext=1"
+    },
+    {
+      "id": "gh-rueppells-vulture",
+      "name": "Rüppell's Vulture",
+      "scientificName": "Gyps rueppellii",
+      "description": "A large, scaly-patterned vulture holding the record for highest confirmed flight altitude of any bird, often seen soaring high above the Serengeti plains.",
+      "location": "Savanna across East and West Africa",
+      "bestTime": "Midday, soaring at great height over open plains",
+      "status": "Critically Endangered",
+      "spotChance": "Rare",
+      "viewing": "Afternoon",
+      "habitatTag": "Savanna",
+      "rating": 4.2,
+      "sightings": 16,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=R%C3%BCppell%27s+Vulture&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Gyps_rueppellii"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Ruppells+Vulture+call&fulltext=1"
+    },
+    {
+      "id": "gh-von-der-deckens-hornbill",
+      "name": "Von der Decken's Hornbill",
+      "scientificName": "Tockus deckeni",
+      "description": "A slender hornbill of dry bush country, with a bold red-and-ivory bill in males, often seen visiting camps in northern Tanzania and Kenya.",
+      "location": "Dry savanna and thornbush, East Africa",
+      "bestTime": "All day, foraging near camps and open bush",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "All Day",
+      "habitatTag": "Savanna",
+      "rating": 4.3,
+      "sightings": 45,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Von+der+Decken%27s+Hornbill&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Tockus_deckeni"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Von+der+Deckens+Hornbill+call&fulltext=1"
+    },
+    {
+      "id": "gh-great-blue-turaco",
+      "name": "Great Blue Turaco",
+      "scientificName": "Corythaeola cristata",
+      "description": "Africa's largest turaco, a huge, sociable, slate-blue forest bird with a yellow-and-black bill and a shaggy crest, often seen moving through the canopy in noisy groups.",
+      "location": "Tropical rainforest, Uganda and Rwanda",
+      "bestTime": "Morning, moving through the canopy in small flocks",
+      "status": "Least Concern",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Forest",
+      "rating": 4.9,
+      "sightings": 13,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Great+Blue+Turaco&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Corythaeola_cristata"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Great+Blue+Turaco+call&fulltext=1"
+    },
+    {
+      "id": "gh-wattled-crane",
+      "name": "Wattled Crane",
+      "scientificName": "Grus carunculata",
+      "description": "Africa's tallest crane, with a striking white neck, dark cap, and distinctive fleshy white wattles hanging below the chin, favouring undisturbed floodplains.",
+      "location": "Floodplains and wetlands of Zambia, Botswana, and South Africa",
+      "bestTime": "Morning, feeding in shallow floodplain grasslands",
+      "status": "Vulnerable",
+      "spotChance": "Rare",
+      "viewing": "Morning",
+      "habitatTag": "Wetland",
+      "rating": 4.8,
+      "sightings": 11,
+      "difficulty": "HARD_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Wattled+Crane&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Grus_carunculata"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Wattled+Crane+call&fulltext=1"
+    },
+    {
+      "id": "gh-rosy-throated-longclaw",
+      "name": "Rosy-throated Longclaw",
+      "scientificName": "Macronyx ameliae",
+      "description": "A small grassland bird resembling a meadowlark, with a bright pink-flushed throat and long hind claws, often flushed from tall grass on game drives.",
+      "location": "Moist grassland, East and Southern Africa including the Masai Mara",
+      "bestTime": "Morning, perched low in tall grass or flushed from cover",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Grassland",
+      "rating": 4.1,
+      "sightings": 34,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=Rosy-throated+Longclaw&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Macronyx_ameliae"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=Rosy-throated+Longclaw+call&fulltext=1"
+    },
+    {
+      "id": "gh-african-harrier-hawk",
+      "name": "African Harrier-Hawk",
+      "scientificName": "Polyboroides typus",
+      "description": "A grey, long-legged raptor with double-jointed legs that let it reach into tree holes and weaver nests to extract chicks and eggs, an unusual hunting method among raptors.",
+      "location": "Woodland and savanna across sub-Saharan Africa",
+      "bestTime": "Morning, probing tree cavities and nests",
+      "status": "Least Concern",
+      "spotChance": "Moderate",
+      "viewing": "Morning",
+      "habitatTag": "Woodland",
+      "rating": 4.4,
+      "sightings": 29,
+      "difficulty": "MODERATE_TO_SPOT",
+      "images": [
+        "https://commons.wikimedia.org/wiki/Special:Search?search=African+Harrier-Hawk&fulltext=1",
+        "https://commons.wikimedia.org/wiki/Category:Polyboroides_typus"
+      ],
+      "soundUrl": "https://commons.wikimedia.org/wiki/Special:Search?search=African+Harrier-Hawk+call&fulltext=1"
     }
   ]
 }
-
