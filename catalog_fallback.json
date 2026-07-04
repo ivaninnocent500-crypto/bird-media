@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-03T00:00:00Z",
+  "destinations": [
+    {"id": 1, "name": "Serengeti National Park", "imageUrl": "https://images.africasafariguide.app/serengeti.jpg", "description": "Home of the Great Migration and endless plains.", "category": "Safari", "vibe": "Adventure,Wildlife,Photography", "country": "Tanzania", "latitude": -2.3333, "longitude": 34.8333, "minRecommendedDays": 2, "maxUsefulDays": 4, "bestMonths": [6,7,8,9,10]},
+    {"id": 2, "name": "Ngorongoro Crater", "imageUrl": "https://images.africasafariguide.app/ngorongoro.jpg", "description": "A UNESCO World Heritage site and natural wonder.", "category": "Safari", "vibe": "Adventure,Culture", "country": "Tanzania", "latitude": -3.2, "longitude": 35.5, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 3, "name": "Zanzibar", "imageUrl": "https://images.africasafariguide.app/zanzibar.jpg", "description": "White-sand beaches and turquoise waters.", "category": "Beach", "vibe": "Relaxation,Luxury", "country": "Tanzania", "latitude": -6.1659, "longitude": 39.2026, "minRecommendedDays": 2, "maxUsefulDays": 5},
+    {"id": 4, "name": "Tarangire National Park", "imageUrl": "https://images.africasafariguide.app/tarangire.jpg", "description": "Famous for elephant herds and baobab trees.", "category": "Safari", "vibe": "Adventure,Wildlife", "country": "Tanzania", "latitude": -4.0, "longitude": 36.0, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 5, "name": "Mount Kilimanjaro", "imageUrl": "https://images.africasafariguide.app/kilimanjaro.jpg", "description": "Africa's highest peak and premier trekking destination.", "category": "Mountain", "vibe": "Adventure,Hiking", "country": "Tanzania", "latitude": -3.0674, "longitude": 37.3556, "minRecommendedDays": 5, "maxUsefulDays": 9},
+    {"id": 6, "name": "Maasai Mara National Reserve", "imageUrl": "https://images.africasafariguide.app/maasaimara.jpg", "description": "Northern extension of the Serengeti, iconic for big cats.", "category": "Safari", "vibe": "Adventure,Wildlife,Photography", "country": "Kenya", "latitude": -1.5, "longitude": 35.5, "minRecommendedDays": 2, "maxUsefulDays": 4, "bestMonths": [7,8,9,10]},
+    {"id": 7, "name": "Amboseli National Park", "imageUrl": "https://images.africasafariguide.app/amboseli.jpg", "description": "Large elephant herds with Kilimanjaro views.", "category": "Safari", "vibe": "Photography,Wildlife", "country": "Kenya", "latitude": -2.65, "longitude": 37.25, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 8, "name": "Lamu Old Town", "imageUrl": "https://images.africasafariguide.app/lamu.jpg", "description": "Oldest, best-preserved Swahili settlement in East Africa.", "category": "Historical City", "vibe": "Culture,History,Coastal", "country": "Kenya", "latitude": -2.2715, "longitude": 40.9009, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 9, "name": "Bwindi Impenetrable Forest", "imageUrl": "https://images.africasafariguide.app/bwindi.jpg", "description": "UNESCO site critical for mountain gorilla conservation.", "category": "National Park", "vibe": "Wildlife Tracking,Adventure", "country": "Uganda", "latitude": -0.9936, "longitude": 29.62, "minRecommendedDays": 2, "maxUsefulDays": 3},
+    {"id": 10, "name": "Volcanoes National Park", "imageUrl": "https://images.africasafariguide.app/volcanoes.jpg", "description": "Home to rare mountain gorillas, site of Dian Fossey's research.", "category": "National Park", "vibe": "Wildlife Tracking,Adventure", "country": "Rwanda", "latitude": -1.477, "longitude": 29.547, "minRecommendedDays": 2, "maxUsefulDays": 3},
+    {"id": 11, "name": "Table Mountain", "imageUrl": "https://images.africasafariguide.app/tablemountain.jpg", "description": "Cape Town's iconic flat-topped mountain.", "category": "Nature", "vibe": "Adventure,Relaxation", "country": "South Africa", "latitude": -33.9583, "longitude": 18.4069, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 12, "name": "Kruger National Park", "imageUrl": "https://images.africasafariguide.app/kruger.jpg", "description": "One of Africa's largest and most famous game reserves.", "category": "National Park", "vibe": "Wildlife Safari,Big Five", "country": "South Africa", "latitude": -24.0, "longitude": 31.5, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 13, "name": "Victoria Falls", "imageUrl": "https://images.africasafariguide.app/victoriafalls.jpg", "description": "One of the world's largest and most famous waterfalls.", "category": "Nature", "vibe": "Adventure,Photography", "country": "Zambia", "sharedWithCountries": ["Zimbabwe"], "latitude": -17.9244, "longitude": 25.8567, "minRecommendedDays": 2, "maxUsefulDays": 3},
+    {"id": 14, "name": "Okavango Delta", "imageUrl": "https://images.africasafariguide.app/okavango.jpg", "description": "World's largest inland river delta, mokoro safaris.", "category": "Natural Wonder", "vibe": "Wildlife Safari,Nature,Eco-tourism", "country": "Botswana", "latitude": -19.5, "longitude": 22.8333, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 15, "name": "Sossusvlei (Namib Desert)", "imageUrl": "https://images.africasafariguide.app/sossusvlei.jpg", "description": "World's highest and most iconic red sand dunes.", "category": "Natural Wonder", "vibe": "Photography,Desert,Adventure", "country": "Namibia", "latitude": -24.7643, "longitude": 15.3562, "minRecommendedDays": 2, "maxUsefulDays": 3},
+    {"id": 16, "name": "Pyramids of Giza", "imageUrl": "https://images.africasafariguide.app/giza.jpg", "description": "Ancient wonders of the world, iconic landmarks of Egypt.", "category": "History", "vibe": "Culture,History", "country": "Egypt", "latitude": 29.9792, "longitude": 31.1342, "minRecommendedDays": 2, "maxUsefulDays": 3},
+    {"id": 17, "name": "Valley of the Kings", "imageUrl": "https://images.africasafariguide.app/valleykings.jpg", "description": "Tombs constructed for Pharaohs and nobles of the New Kingdom.", "category": "Historical Landmark", "vibe": "Ancient History,Archeology", "country": "Egypt", "latitude": 25.74, "longitude": 32.6, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 18, "name": "Marrakesh (The Red City)", "imageUrl": "https://images.africasafariguide.app/marrakech.jpg", "description": "Vibrant city known for its souks and historic medina.", "category": "Major City", "vibe": "Culture,Shopping,Architecture", "country": "Morocco", "latitude": 31.6295, "longitude": -7.9811, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 19, "name": "Sahara Desert", "imageUrl": "https://images.africasafariguide.app/sahara.jpg", "description": "World's largest hot desert.", "category": "Desert", "vibe": "Adventure,Exploration,Photography", "country": "Morocco", "latitude": 31.1, "longitude": -4.0, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 20, "name": "Seychelles Islands", "imageUrl": "https://images.africasafariguide.app/seychelles.jpg", "description": "Archipelago known for pristine beaches and granite boulders.", "category": "Island Paradise", "vibe": "Beach,Luxury,Nature,Diving", "country": "Seychelles", "latitude": -4.6796, "longitude": 55.4518, "minRecommendedDays": 3, "maxUsefulDays": 7}
+  ],
+  "activities": {
+    "Serengeti National Park": [
+      {"name": "Full-Day Game Drive", "description": "Experience the Great Migration and spot the Big Five.", "duration": "8-10 hours", "latitude": -2.3333, "longitude": 34.8333, "priceTierCostUsd": {"budget": 100, "mid-range": 150, "luxury": 250}},
+      {"name": "Hot Air Balloon Safari", "description": "Sunrise flight over the plains with champagne breakfast.", "duration": "1-2 hours", "latitude": -2.3333, "longitude": 34.8333, "priceTierCostUsd": {"budget": 550, "mid-range": 650, "luxury": 750}}
+    ],
+    "Ngorongoro Crater": [
+      {"name": "Crater Floor Game Drive", "description": "Descend into the caldera for high-density wildlife viewing.", "duration": "6-8 hours", "latitude": -3.2, "longitude": 35.5, "priceTierCostUsd": {"budget": 300, "mid-range": 350, "luxury": 400}},
+      {"name": "Visit a Maasai Village", "description": "Cultural tour to a traditional Maasai boma.", "duration": "1-2 hours", "latitude": -3.2, "longitude": 35.5, "priceTierCostUsd": {"budget": 30, "mid-range": 50, "luxury": 70}}
+    ],
+    "Zanzibar": [
+      {"name": "Spice Tour", "description": "Visit a spice plantation.", "duration": "Half-Day", "latitude": -6.1659, "longitude": 39.2026, "priceTierCostUsd": {"budget": 25, "mid-range": 40, "luxury": 60}},
+      {"name": "Stone Town Walking Tour", "description": "Explore historic buildings and markets.", "duration": "2-4 hours", "latitude": -6.1659, "longitude": 39.2026, "priceTierCostUsd": {"budget": 15, "mid-range": 30, "luxury": 50}}
+    ],
+    "Maasai Mara National Reserve": [
+      {"name": "Game Drive (Great Migration)", "description": "Witness the wildebeest and zebra river crossings (seasonal).", "duration": "Full Day", "latitude": -1.45, "longitude": 35.2, "priceTierCostUsd": {"budget": 90, "mid-range": 120, "luxury": 200}},
+      {"name": "Hot Air Balloon Safari", "description": "Sunrise flight over the Mara plains.", "duration": "1-2 hours", "latitude": -1.45, "longitude": 35.2, "priceTierCostUsd": {"budget": 600, "mid-range": 700, "luxury": 850}}
+    ],
+    "Bwindi Impenetrable Forest": [
+      {"name": "Gorilla Trekking", "description": "Track a habituated family of endangered mountain gorillas.", "duration": "2-8 hours", "latitude": -0.9936, "longitude": 29.6749, "priceTierCostUsd": {"budget": 700, "mid-range": 700, "luxury": 700}}
+    ],
+    "Volcanoes National Park": [
+      {"name": "Gorilla Trekking Permit", "description": "Track mountain gorillas in Dian Fossey's former research area.", "duration": "Full Day", "latitude": -1.477, "longitude": 29.547, "priceTierCostUsd": {"budget": 1500, "mid-range": 1500, "luxury": 1500}}
+    ],
+    "Table Mountain": [
+      {"name": "Cableway Ride to the Summit", "description": "Rotating cable car with panoramic Cape Town views.", "duration": "1 hour round trip", "latitude": -33.9583, "longitude": 18.4069, "priceTierCostUsd": {"budget": 30, "mid-range": 40, "luxury": 50}}
+    ],
+    "Victoria Falls": [
+      {"name": "Helicopter 'Flight of Angels' Tour", "description": "Scenic flight over the falls.", "duration": "15-30 minutes", "latitude": -17.9244, "longitude": 25.8567, "priceTierCostUsd": {"budget": 150, "mid-range": 180, "luxury": 250}},
+      {"name": "White Water Rafting", "description": "World-class rafting on the Zambezi River.", "duration": "Full Day", "latitude": -17.9244, "longitude": 25.8567, "priceTierCostUsd": {"budget": 120, "mid-range": 150, "luxury": 200}}
+    ],
+    "Pyramids of Giza": [
+      {"name": "Explore the Great Pyramids", "description": "Walk among the Pyramids of Khufu, Khafre and Menkaure.", "duration": "2-3 hours", "latitude": 29.9792, "longitude": 31.1342, "priceTierCostUsd": {"budget": 15, "mid-range": 35, "luxury": 80}}
+    ],
+    "Mount Kilimanjaro": [
+      {"name": "Trekking to the Summit", "description": "Multi-day trek to Uhuru Peak via Machame/Lemosho route.", "duration": "5-9 days", "latitude": -3.0674, "longitude": 37.3556, "priceTierCostUsd": {"budget": 1800, "mid-range": 2500, "luxury": 4000}}
+    ]
+  },
+  "accommodations": {},
+  "hubs": [
+    {"code": "JRO", "country": "Tanzania", "cityName": "Kilimanjaro (Arusha)", "latitude": -3.4294, "longitude": 37.0745},
+    {"code": "DAR", "country": "Tanzania", "cityName": "Dar es Salaam", "latitude": -6.8781, "longitude": 39.2026},
+    {"code": "ZNZ", "country": "Tanzania", "cityName": "Zanzibar", "latitude": -6.2220, "longitude": 39.2249},
+    {"code": "NBO", "country": "Kenya", "cityName": "Nairobi", "latitude": -1.3192, "longitude": 36.9278},
+    {"code": "EBB", "country": "Uganda", "cityName": "Entebbe", "latitude": 0.0424, "longitude": 32.4436},
+    {"code": "KGL", "country": "Rwanda", "cityName": "Kigali", "latitude": -1.9686, "longitude": 30.1395},
+    {"code": "CPT", "country": "South Africa", "cityName": "Cape Town", "latitude": -33.9648, "longitude": 18.6017},
+    {"code": "JNB", "country": "South Africa", "cityName": "Johannesburg", "latitude": -26.1392, "longitude": 28.246},
+    {"code": "LVI", "country": "Zambia", "cityName": "Livingstone", "latitude": -17.8218, "longitude": 25.8228},
+    {"code": "HRE", "country": "Zimbabwe", "cityName": "Harare", "latitude": -17.9318, "longitude": 31.0928},
+    {"code": "MUB", "country": "Botswana", "cityName": "Maun", "latitude": -19.9726, "longitude": 23.4189},
+    {"code": "WDH", "country": "Namibia", "cityName": "Windhoek", "latitude": -22.4799, "longitude": 17.4709},
+    {"code": "CAI", "country": "Egypt", "cityName": "Cairo", "latitude": 30.1219, "longitude": 31.4056},
+    {"code": "RAK", "country": "Morocco", "cityName": "Marrakesh", "latitude": 31.6069, "longitude": -8.0363},
+    {"code": "SEZ", "country": "Seychelles", "cityName": "Mahé", "latitude": -4.6743, "longitude": 55.5218}
+  ],
+  "destinationToHub": {
+    "Serengeti National Park": "JRO", "Ngorongoro Crater": "JRO", "Tarangire National Park": "JRO",
+    "Mount Kilimanjaro": "JRO", "Zanzibar": "ZNZ",
+    "Maasai Mara National Reserve": "NBO", "Amboseli National Park": "NBO", "Lamu Old Town": "NBO",
+    "Bwindi Impenetrable Forest": "EBB", "Volcanoes National Park": "KGL",
+    "Table Mountain": "CPT", "Kruger National Park": "JNB",
+    "Victoria Falls": "LVI", "Okavango Delta": "MUB", "Sossusvlei (Namib Desert)": "WDH",
+    "Pyramids of Giza": "CAI", "Valley of the Kings": "CAI",
+    "Marrakesh (The Red City)": "RAK", "Sahara Desert": "RAK",
+    "Seychelles Islands": "SEZ"
+  },
+  "interHubFlights": [
+    {"originCode": "NBO", "destinationCode": "JRO", "durationHours": 1.0, "airlines": "Kenya Airways, Precision Air", "requiresLayovers": false, "estimatedCostUsd": 180, "frequency": "daily"},
+    {"originCode": "NBO", "destinationCode": "EBB", "durationHours": 1.5, "airlines": "Kenya Airways, Uganda Airlines", "requiresLayovers": false, "estimatedCostUsd": 220, "frequency": "daily"},
+    {"originCode": "NBO", "destinationCode": "KGL", "durationHours": 2.0, "airlines": "RwandAir, Kenya Airways", "requiresLayovers": false, "estimatedCostUsd": 260, "frequency": "daily"},
+    {"originCode": "EBB", "destinationCode": "KGL", "durationHours": 1.2, "airlines": "RwandAir, Uganda Airlines", "requiresLayovers": false, "estimatedCostUsd": 200, "frequency": "daily"},
+    {"originCode": "JRO", "destinationCode": "ZNZ", "durationHours": 1.2, "airlines": "Precision Air, Air Tanzania", "requiresLayovers": false, "estimatedCostUsd": 150, "frequency": "daily"},
+    {"originCode": "NBO", "destinationCode": "JNB", "durationHours": 4.2, "airlines": "Kenya Airways, South African Airways", "requiresLayovers": false, "estimatedCostUsd": 420, "frequency": "daily"},
+    {"originCode": "JNB", "destinationCode": "CPT", "durationHours": 2.0, "airlines": "South African Airways, FlySafair", "requiresLayovers": false, "estimatedCostUsd": 150, "frequency": "daily"},
+    {"originCode": "JNB", "destinationCode": "LVI", "durationHours": 2.0, "airlines": "South African Airways, Proflight Zambia", "requiresLayovers": false, "estimatedCostUsd": 280, "frequency": "daily"},
+    {"originCode": "JNB", "destinationCode": "MUB", "durationHours": 2.5, "airlines": "Airlink", "requiresLayovers": false, "estimatedCostUsd": 350, "frequency": "daily"},
+    {"originCode": "JNB", "destinationCode": "WDH", "durationHours": 2.2, "airlines": "Airlink, South African Airways", "requiresLayovers": false, "estimatedCostUsd": 320, "frequency": "daily"},
+    {"originCode": "NBO", "destinationCode": "CAI", "durationHours": 5.0, "airlines": "EgyptAir, Kenya Airways", "requiresLayovers": true, "estimatedCostUsd": 480, "frequency": "daily"},
+    {"originCode": "JNB", "destinationCode": "CAI", "durationHours": 8.5, "airlines": "EgyptAir (via Addis Ababa or Nairobi)", "requiresLayovers": true, "estimatedCostUsd": 650, "frequency": "few-weekly"},
+    {"originCode": "CAI", "destinationCode": "RAK", "durationHours": 7.0, "airlines": "Royal Air Maroc, EgyptAir (via Casablanca)", "requiresLayovers": true, "estimatedCostUsd": 550, "frequency": "few-weekly"},
+    {"originCode": "NBO", "destinationCode": "SEZ", "durationHours": 4.0, "airlines": "Kenya Airways", "requiresLayovers": false, "estimatedCostUsd": 500, "frequency": "few-weekly"},
+    {"originCode": "JNB", "destinationCode": "SEZ", "durationHours": 4.5, "airlines": "Air Seychelles", "requiresLayovers": false, "estimatedCostUsd": 520, "frequency": "few-weekly"}
+  ],
+  "attractionCosts": {
+    "Uganda": {"Bwindi Impenetrable Forest": {"Gorilla Trekking": {"budget": 700, "mid-range": 700, "luxury": 700}}},
+    "Rwanda": {"Volcanoes National Park": {"Gorilla Trekking Permit": {"budget": 1500, "mid-range": 1500, "luxury": 1500}}}
+  },
+  "baseCosts": {
+    "accommodationUsdPerNight": {"budget": 40, "mid-range": 100, "luxury": 280},
+    "foodUsdPerDay": {"budget": 25, "mid-range": 50, "luxury": 110},
+    "longDistanceTravelUsd": {"budget": 150, "mid-range": 400, "luxury": 800},
+    "destinationCostMultiplier": {
+      "Serengeti National Park": 2.0, "Ngorongoro Crater": 2.2, "Zanzibar": 1.1,
+      "Maasai Mara National Reserve": 2.5, "Amboseli National Park": 1.8,
+      "Mount Kilimanjaro": 2.0, "Table Mountain": 1.4, "Victoria Falls": 1.2,
+      "Bwindi Impenetrable Forest": 2.3, "Volcanoes National Park": 2.6,
+      "Seychelles Islands": 2.0
+    }
+  },
+  "visaRules": [
+    {"country": "Kenya", "passportGroup": "most-nationalities", "requirement": "ETA_REQUIRED", "notes": "Kenya replaced its visa system with an Electronic Travel Authorization (eTA); apply online before departure.", "evisaUrl": "https://etakenya.go.ke", "maxStayDays": 90, "multiCountryPassOptions": ["East Africa Tourist Visa"]},
+    {"country": "Uganda", "passportGroup": "most-nationalities", "requirement": "E_VISA_REQUIRED", "notes": "No visa-on-arrival; apply online, 3-7 working days processing.", "evisaUrl": "https://visas.immigration.go.ug", "maxStayDays": 90, "multiCountryPassOptions": ["East Africa Tourist Visa"]},
+    {"country": "Rwanda", "passportGroup": "most-nationalities", "requirement": "VISA_ON_ARRIVAL", "notes": "Rwanda offers visa on arrival to all nationalities; e-visa also available in advance.", "evisaUrl": "https://irembo.gov.rw", "maxStayDays": 90, "multiCountryPassOptions": ["East Africa Tourist Visa"]},
+    {"country": "Tanzania", "passportGroup": "most-nationalities", "requirement": "E_VISA_REQUIRED", "notes": "Visa on arrival is also accepted at major airports for most nationalities, but pre-approval online reduces queue time.", "evisaUrl": "https://visa.immigration.go.tz", "maxStayDays": 90},
+    {"country": "South Africa", "passportGroup": "most-nationalities", "requirement": "VISA_FREE", "notes": "Many nationalities are visa-exempt for short tourist stays; verify against your specific passport.", "maxStayDays": 90},
+    {"country": "Zambia", "passportGroup": "most-nationalities", "requirement": "E_VISA_REQUIRED", "notes": "Consider the KAZA UniVisa if also visiting Zimbabwe.", "evisaUrl": "https://www.evisa.zm", "maxStayDays": 30, "multiCountryPassOptions": ["KAZA UniVisa"]},
+    {"country": "Zimbabwe", "passportGroup": "most-nationalities", "requirement": "VISA_ON_ARRIVAL", "notes": "Consider the KAZA UniVisa if also visiting Zambia.", "maxStayDays": 30, "multiCountryPassOptions": ["KAZA UniVisa"]},
+    {"country": "Botswana", "passportGroup": "most-nationalities", "requirement": "VISA_FREE", "notes": "Most nationalities visa-exempt for tourism up to 90 days; verify against your passport.", "maxStayDays": 90},
+    {"country": "Namibia", "passportGroup": "most-nationalities", "requirement": "VISA_FREE", "notes": "Most nationalities visa-exempt for short stays; verify against your passport.", "maxStayDays": 90},
+    {"country": "Egypt", "passportGroup": "most-nationalities", "requirement": "E_VISA_REQUIRED", "notes": "e-Visa available online for most nationalities; visa on arrival also offered at some airports.", "evisaUrl": "https://visa2egypt.gov.eg", "maxStayDays": 30},
+    {"country": "Morocco", "passportGroup": "most-nationalities", "requirement": "VISA_FREE", "notes": "Many nationalities visa-exempt for tourist stays up to 90 days; verify against your passport.", "maxStayDays": 90},
+    {"country": "Seychelles", "passportGroup": "most-nationalities", "requirement": "VISA_ON_ARRIVAL", "notes": "A free visitor's permit is issued on arrival to all nationalities, subject to proof of accommodation and return ticket.", "maxStayDays": 90}
+  ]
+}
