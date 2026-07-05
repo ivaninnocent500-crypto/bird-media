@@ -22,7 +22,6 @@
     {"id": 18, "name": "Marrakesh (The Red City)", "imageUrl": "https://images.africasafariguide.app/marrakech.jpg", "description": "Vibrant city known for its souks and historic medina.", "category": "Major City", "vibe": "Culture,Shopping,Architecture", "country": "Morocco", "latitude": 31.6295, "longitude": -7.9811, "minRecommendedDays": 2, "maxUsefulDays": 4},
     {"id": 19, "name": "Sahara Desert", "imageUrl": "https://images.africasafariguide.app/sahara.jpg", "description": "World's largest hot desert.", "category": "Desert", "vibe": "Adventure,Exploration,Photography", "country": "Morocco", "latitude": 31.1, "longitude": -4.0, "minRecommendedDays": 1, "maxUsefulDays": 2},
     {"id": 20, "name": "Seychelles Islands", "imageUrl": "https://images.africasafariguide.app/seychelles.jpg", "description": "Archipelago known for pristine beaches and granite boulders.", "category": "Island Paradise", "vibe": "Beach,Luxury,Nature,Diving", "country": "Seychelles", "latitude": -4.6796, "longitude": 55.4518, "minRecommendedDays": 3, "maxUsefulDays": 7},
-
     {"id": 21, "name": "Chobe National Park", "imageUrl": "https://images.africasafariguide.app/chobe.jpg", "description": "Riverfront park famed for having Africa's largest elephant population.", "category": "National Park", "vibe": "Wildlife Safari,River Cruise,Photography", "country": "Botswana", "latitude": -18.6, "longitude": 24.9167, "minRecommendedDays": 1, "maxUsefulDays": 3, "bestMonths": [5,6,7,8,9]},
     {"id": 22, "name": "Etosha National Park", "imageUrl": "https://images.africasafariguide.app/etosha.jpg", "description": "Vast salt pan surrounded by waterholes drawing huge herds of wildlife.", "category": "National Park", "vibe": "Wildlife Safari,Self-Drive,Photography", "country": "Namibia", "latitude": -18.8318, "longitude": 16.3411, "minRecommendedDays": 2, "maxUsefulDays": 4, "bestMonths": [6,7,8,9]},
     {"id": 23, "name": "Skeleton Coast", "imageUrl": "https://images.africasafariguide.app/skeletoncoast.jpg", "description": "Fog-shrouded shipwreck coastline and remote desert wilderness.", "category": "Nature", "vibe": "Adventure,Desert,Photography", "country": "Namibia", "latitude": -20.0, "longitude": 13.0, "minRecommendedDays": 1, "maxUsefulDays": 3},
@@ -35,6 +34,52 @@
     {"id": 30, "name": "Ol Pejeta Conservancy", "imageUrl": "https://images.africasafariguide.app/olpejeta.jpg", "description": "Leading rhino sanctuary and home to the last northern white rhinos.", "category": "Safari", "vibe": "Wildlife,Conservation,Photography", "country": "Kenya", "latitude": 0.0167, "longitude": 36.9333, "minRecommendedDays": 1, "maxUsefulDays": 2},
     {"id": 31, "name": "Lake Malawi", "imageUrl": "https://images.africasafariguide.app/lakemalawi.jpg", "description": "Africa's third-largest lake, prized for diving, snorkeling, and freshwater beaches.", "category": "Lake", "vibe": "Relaxation,Diving,Nature", "country": "Malawi", "latitude": -12.3, "longitude": 34.5, "minRecommendedDays": 2, "maxUsefulDays": 5},
     {"id": 32, "name": "Simien Mountains National Park", "imageUrl": "https://images.africasafariguide.app/simien.jpg", "description": "Dramatic escarpments and jagged peaks, home to the endemic gelada monkey.", "category": "Mountain", "vibe": "Adventure,Hiking,Wildlife", "country": "Ethiopia", "latitude": 13.25, "longitude": 38.0, "minRecommendedDays": 2, "maxUsefulDays": 5},
+
+    {"id": 34, "name": "Cape Town City & Waterfront", "imageUrl": "https://images.africasafariguide.app/capetown.jpg", "description": "Cosmopolitan coastal capital blending Table Mountain views, beaches, and vibrant harbor life.", "category": "Major City", "vibe": "Culture,Food,Relaxation", "country": "South Africa", "latitude": -33.9249, "longitude": 18.4241, "minRecommendedDays": 2, "maxUsefulDays": 5},
+    {"id": 35, "name": "Cape Winelands (Stellenbosch & Franschhoek)", "imageUrl": "https://images.africasafariguide.app/winelands.jpg", "description": "Historic Cape Dutch estates set among vineyards and mountain valleys.", "category": "Wine Region", "vibe": "Food,Wine,Relaxation", "country": "South Africa", "latitude": -33.9321, "longitude": 18.8602, "minRecommendedDays": 1, "maxUsefulDays": 3},
+    {"id": 36, "name": "Garden Route", "imageUrl": "https://images.africasafariguide.app/gardenroute.jpg", "description": "Scenic coastal drive through forests, lagoons, and beach towns.", "category": "Road Trip", "vibe": "Adventure,Nature,Photography", "country": "South Africa", "latitude": -33.9800, "longitude": 22.4600, "minRecommendedDays": 3, "maxUsefulDays": 6},
+    {"id": 37, "name": "Addo Elephant National Park", "imageUrl": "https://images.africasafariguide.app/addo.jpg", "description": "Malaria-free reserve protecting one of the densest elephant populations in Africa.", "category": "National Park", "vibe": "Wildlife Safari,Family,Photography", "country": "South Africa", "latitude": -33.4833, "longitude": 25.75, "minRecommendedDays": 1, "maxUsefulDays": 3},
+    {"id": 38, "name": "Hermanus", "imageUrl": "https://images.africasafariguide.app/hermanus.jpg", "description": "Coastal town renowned as one of the best land-based whale-watching spots on Earth.", "category": "Coastal Town", "vibe": "Nature,Relaxation,Wildlife", "country": "South Africa", "latitude": -34.4187, "longitude": 19.2345, "minRecommendedDays": 1, "maxUsefulDays": 2, "bestMonths": [6,7,8,9,10,11]},
+    {"id": 39, "name": "Drakensberg Mountains", "imageUrl": "https://images.africasafariguide.app/drakensberg.jpg", "description": "Dramatic UNESCO-listed escarpment with ancient San rock art and top hiking trails.", "category": "Mountain", "vibe": "Adventure,Hiking,Nature", "country": "South Africa", "latitude": -29.0, "longitude": 29.4167, "minRecommendedDays": 2, "maxUsefulDays": 4},
+
+    {"id": 40, "name": "Nairobi National Park", "imageUrl": "https://images.africasafariguide.app/nairobipark.jpg", "description": "The only national park bordering a capital city, with rhinos and lions minutes from downtown.", "category": "National Park", "vibe": "Wildlife,Photography,Family", "country": "Kenya", "latitude": -1.3667, "longitude": 36.8333, "minRecommendedDays": 1, "maxUsefulDays": 1},
+    {"id": 41, "name": "Samburu National Reserve", "imageUrl": "https://images.africasafariguide.app/samburu.jpg", "description": "Semi-arid reserve known for rare species like the Grevy's zebra and reticulated giraffe.", "category": "Safari", "vibe": "Wildlife,Adventure,Culture", "country": "Kenya", "latitude": 0.5833, "longitude": 37.5333, "minRecommendedDays": 2, "maxUsefulDays": 3},
+    {"id": 42, "name": "Lake Nakuru National Park", "imageUrl": "https://images.africasafariguide.app/nakuru.jpg", "description": "Rift Valley soda lake famed for flamingo flocks and rhino sanctuaries.", "category": "National Park", "vibe": "Wildlife,Photography,Birdwatching", "country": "Kenya", "latitude": -0.3667, "longitude": 36.1, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 43, "name": "Mount Kenya National Park", "imageUrl": "https://images.africasafariguide.app/mountkenya.jpg", "description": "Africa's second-highest peak, with glacial valleys and afro-alpine trails.", "category": "Mountain", "vibe": "Adventure,Hiking,Nature", "country": "Kenya", "latitude": -0.1521, "longitude": 37.3084, "minRecommendedDays": 3, "maxUsefulDays": 6},
+    {"id": 44, "name": "Watamu", "imageUrl": "https://images.africasafariguide.app/watamu.jpg", "description": "Marine national park with coral reefs, turtle nesting beaches, and deep-sea fishing.", "category": "Beach", "vibe": "Relaxation,Diving,Nature", "country": "Kenya", "latitude": -3.35, "longitude": 40.0167, "minRecommendedDays": 2, "maxUsefulDays": 4},
+
+    {"id": 45, "name": "Ruaha National Park", "imageUrl": "https://images.africasafariguide.app/ruaha.jpg", "description": "Tanzania's largest park, a remote wilderness with huge elephant and lion populations.", "category": "National Park", "vibe": "Wildlife,Adventure,Remote", "country": "Tanzania", "latitude": -7.5, "longitude": 34.5, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 46, "name": "Selous Game Reserve (Nyerere National Park)", "imageUrl": "https://images.africasafariguide.app/selous.jpg", "description": "One of Africa's largest protected wildernesses, explored by boat, foot, and vehicle.", "category": "Safari", "vibe": "Wildlife,Adventure,Boat Safari", "country": "Tanzania", "latitude": -8.0, "longitude": 37.0, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 47, "name": "Lake Manyara National Park", "imageUrl": "https://images.africasafariguide.app/manyara.jpg", "description": "Compact park famed for tree-climbing lions and flocks of flamingos.", "category": "National Park", "vibe": "Wildlife,Birdwatching,Photography", "country": "Tanzania", "latitude": -3.5833, "longitude": 35.8167, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 48, "name": "Pemba Island", "imageUrl": "https://images.africasafariguide.app/pemba.jpg", "description": "Lush, less-visited island near Zanzibar known for world-class diving.", "category": "Island Paradise", "vibe": "Beach,Diving,Relaxation", "country": "Tanzania", "latitude": -5.1667, "longitude": 39.75, "minRecommendedDays": 2, "maxUsefulDays": 5},
+    {"id": 49, "name": "Mafia Island", "imageUrl": "https://images.africasafariguide.app/mafia.jpg", "description": "Marine park archipelago famous for swimming with whale sharks.", "category": "Island Paradise", "vibe": "Diving,Nature,Relaxation", "country": "Tanzania", "latitude": -7.9167, "longitude": 39.75, "minRecommendedDays": 2, "maxUsefulDays": 4, "bestMonths": [10,11,12,1,2]},
+
+    {"id": 50, "name": "South Luangwa National Park", "imageUrl": "https://images.africasafariguide.app/southluangwa.jpg", "description": "Birthplace of the walking safari, renowned for leopard sightings.", "category": "National Park", "vibe": "Wildlife,Adventure,Walking Safari", "country": "Zambia", "latitude": -12.75, "longitude": 31.75, "minRecommendedDays": 2, "maxUsefulDays": 4, "bestMonths": [6,7,8,9,10]},
+    {"id": 51, "name": "Lower Zambezi National Park", "imageUrl": "https://images.africasafariguide.app/lowerzambezi.jpg", "description": "Riverine wilderness offering canoe safaris beneath towering ana trees.", "category": "National Park", "vibe": "Wildlife,Canoeing,Adventure", "country": "Zambia", "latitude": -15.6167, "longitude": 29.35, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 52, "name": "Kafue National Park", "imageUrl": "https://images.africasafariguide.app/kafue.jpg", "description": "One of the largest parks in the world, with diverse habitats and cheetah populations.", "category": "National Park", "vibe": "Wildlife,Remote,Photography", "country": "Zambia", "latitude": -14.75, "longitude": 25.9167, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 53, "name": "Lusaka", "imageUrl": "https://images.africasafariguide.app/lusaka.jpg", "description": "Zambia's bustling capital, a common gateway with markets and cultural sites.", "category": "Major City", "vibe": "Culture,Food,Urban", "country": "Zambia", "latitude": -15.3875, "longitude": 28.3228, "minRecommendedDays": 1, "maxUsefulDays": 2},
+
+    {"id": 54, "name": "Prison Island (Changuu)", "imageUrl": "https://images.africasafariguide.app/changuu.jpg", "description": "Small island off Stone Town famed for giant Aldabra tortoises and snorkeling reefs.", "category": "Island Paradise", "vibe": "Nature,Relaxation,Wildlife", "country": "Tanzania", "latitude": -6.1167, "longitude": 39.1667, "minRecommendedDays": 1, "maxUsefulDays": 1},
+    {"id": 55, "name": "Nungwi", "imageUrl": "https://images.africasafariguide.app/nungwi.jpg", "description": "Zanzibar's lively northern-tip beach village known for nightlife and dhow-building traditions.", "category": "Beach", "vibe": "Beach,Nightlife,Relaxation", "country": "Tanzania", "latitude": -5.7333, "longitude": 39.2833, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 56, "name": "Jozani Chwaka Bay National Park", "imageUrl": "https://images.africasafariguide.app/jozani.jpg", "description": "Zanzibar's only national park, home to the rare red colobus monkey.", "category": "Nature", "vibe": "Wildlife,Nature,Eco-tourism", "country": "Tanzania", "latitude": -6.2667, "longitude": 39.4167, "minRecommendedDays": 1, "maxUsefulDays": 1},
+
+    {"id": 57, "name": "Aksum", "imageUrl": "https://images.africasafariguide.app/aksum.jpg", "description": "Ancient capital of the Aksumite Empire, home to towering carved obelisks.", "category": "Historical Landmark", "vibe": "Ancient History,Culture,Archeology", "country": "Ethiopia", "latitude": 14.1213, "longitude": 38.7167, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 58, "name": "Gondar", "imageUrl": "https://images.africasafariguide.app/gondar.jpg", "description": "Former imperial capital known as the 'Camelot of Africa' for its medieval castles.", "category": "Historical City", "vibe": "Culture,History,Architecture", "country": "Ethiopia", "latitude": 12.6, "longitude": 37.4667, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 59, "name": "Danakil Depression", "imageUrl": "https://images.africasafariguide.app/danakil.jpg", "description": "One of the hottest and lowest places on Earth, with acid pools and active lava lakes.", "category": "Natural Wonder", "vibe": "Adventure,Extreme,Photography", "country": "Ethiopia", "latitude": 14.2417, "longitude": 40.3, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 60, "name": "Omo Valley", "imageUrl": "https://images.africasafariguide.app/omovalley.jpg", "description": "Culturally diverse region home to numerous indigenous tribes and traditions.", "category": "Culture", "vibe": "Culture,Anthropology,Photography", "country": "Ethiopia", "latitude": 5.5, "longitude": 36.0, "minRecommendedDays": 3, "maxUsefulDays": 6},
+    {"id": 61, "name": "Addis Ababa", "imageUrl": "https://images.africasafariguide.app/addisababa.jpg", "description": "Ethiopia's high-altitude capital, blending museums, markets, and coffee culture.", "category": "Major City", "vibe": "Culture,Food,Urban", "country": "Ethiopia", "latitude": 9.03, "longitude": 38.74, "minRecommendedDays": 1, "maxUsefulDays": 3},
+
+    {"id": 62, "name": "Chefchaouen (The Blue City)", "imageUrl": "https://images.africasafariguide.app/chefchaouen.jpg", "description": "Mountain town famous for its striking blue-washed medina streets.", "category": "Historical City", "vibe": "Culture,Photography,Relaxation", "country": "Morocco", "latitude": 35.1688, "longitude": -5.2636, "minRecommendedDays": 1, "maxUsefulDays": 3},
+    {"id": 63, "name": "Casablanca", "imageUrl": "https://images.africasafariguide.app/casablanca.jpg", "description": "Morocco's largest city, home to the grand Hassan II Mosque on the Atlantic.", "category": "Major City", "vibe": "Culture,Architecture,Urban", "country": "Morocco", "latitude": 33.5731, "longitude": -7.5898, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 64, "name": "Atlas Mountains (Toubkal Region)", "imageUrl": "https://images.africasafariguide.app/atlasmountains.jpg", "description": "North Africa's highest range, with Berber villages and trekking to Toubkal's summit.", "category": "Mountain", "vibe": "Adventure,Hiking,Culture", "country": "Morocco", "latitude": 31.0595, "longitude": -7.9128, "minRecommendedDays": 2, "maxUsefulDays": 5},
+    {"id": 65, "name": "Rabat", "imageUrl": "https://images.africasafariguide.app/rabat.jpg", "description": "Morocco's coastal capital, blending imperial history with a relaxed atmosphere.", "category": "Major City", "vibe": "Culture,History,Relaxation", "country": "Morocco", "latitude": 34.0209, "longitude": -6.8417, "minRecommendedDays": 1, "maxUsefulDays": 2},
+
+    {"id": 66, "name": "Cairo (Islamic & Coptic Quarters)", "imageUrl": "https://images.africasafariguide.app/cairo.jpg", "description": "Sprawling capital packed with medieval mosques, markets, and ancient churches.", "category": "Major City", "vibe": "Culture,History,Shopping", "country": "Egypt", "latitude": 30.0444, "longitude": 31.2357, "minRecommendedDays": 2, "maxUsefulDays": 4},
+    {"id": 67, "name": "Abu Simbel", "imageUrl": "https://images.africasafariguide.app/abusimbel.jpg", "description": "Massive rock temples built by Ramesses II, relocated to escape flooding.", "category": "Historical Landmark", "vibe": "Ancient History,Archeology,Photography", "country": "Egypt", "latitude": 22.3372, "longitude": 31.6258, "minRecommendedDays": 1, "maxUsefulDays": 1},
+    {"id": 68, "name": "Nile River Cruise (Aswan to Luxor)", "imageUrl": "https://images.africasafariguide.app/nilecruise.jpg", "description": "Classic multi-day cruise past temples, tombs, and riverside villages.", "category": "River Cruise", "vibe": "Culture,History,Relaxation", "country": "Egypt", "latitude": 24.5, "longitude": 32.85, "minRecommendedDays": 3, "maxUsefulDays": 5},
+    {"id": 69, "name": "Red Sea Riviera (Hurghada & Sharm El Sheikh)", "imageUrl": "https://images.africasafariguide.app/redsea.jpg", "description": "Premier diving destination with vibrant coral reefs and warm waters.", "category": "Beach", "vibe": "Diving,Relaxation,Beach", "country": "Egypt", "latitude": 27.2579, "longitude": 33.8116, "minRecommendedDays": 3, "maxUsefulDays": 7},
+    {"id": 70, "name": "Siwa Oasis", "imageUrl": "https://images.africasafariguide.app/siwa.jpg", "description": "Remote desert oasis with salt lakes, palm groves, and ancient ruins.", "category": "Desert", "vibe": "Adventure,Relaxation,Nature", "country": "Egypt", "latitude": 29.2041, "longitude": 25.5195, "minRecommendedDays": 2, "maxUsefulDays": 4},
+
     {"id": 33, "name": "Lalibela", "imageUrl": "https://images.africasafariguide.app/lalibela.jpg", "description": "UNESCO site famed for its 12th-century monolithic rock-hewn churches.", "category": "Historical Landmark", "vibe": "Culture,History,Religion", "country": "Ethiopia", "latitude": 12.0316, "longitude": 39.0473, "minRecommendedDays": 1, "maxUsefulDays": 2}
   ],
   "activities": {
@@ -107,6 +152,143 @@
     ],
     "Simien Mountains National Park": [
       {"name": "Multi-Day Trek", "description": "Trek along dramatic escarpments to spot gelada monkeys and Walia ibex.", "duration": "2-5 days", "latitude": 13.25, "longitude": 38.0, "priceTierCostUsd": {"budget": 250, "mid-range": 400, "luxury": 700}}
+    ],
+
+    "Cape Town City & Waterfront": [
+      {"name": "V&A Waterfront Harbor Walk", "description": "Explore shops, seals, and seafood restaurants along the historic harbor.", "duration": "2-3 hours", "latitude": -33.9036, "longitude": 18.4198, "priceTierCostUsd": {"budget": 0, "mid-range": 30, "luxury": 80}},
+      {"name": "Bo-Kaap Neighborhood & Cooking Tour", "description": "Walk the colorful Cape Malay quarter and learn traditional cooking.", "duration": "3-4 hours", "latitude": -33.9214, "longitude": 18.4136, "priceTierCostUsd": {"budget": 40, "mid-range": 65, "luxury": 100}}
+    ],
+    "Cape Winelands (Stellenbosch & Franschhoek)": [
+      {"name": "Wine Tram Tour of Franschhoep", "description": "Hop-on-hop-off tram between historic wine estates.", "duration": "Full Day", "latitude": -33.9106, "longitude": 19.1206, "priceTierCostUsd": {"budget": 45, "mid-range": 70, "luxury": 120}},
+      {"name": "Stellenbosch Cellar Tastings", "description": "Guided tastings at boutique vineyards around South Africa's oldest wine town.", "duration": "Half-Day", "latitude": -33.9321, "longitude": 18.8602, "priceTierCostUsd": {"budget": 25, "mid-range": 45, "luxury": 90}}
+    ],
+    "Garden Route": [
+      {"name": "Tsitsikamma Canopy Tour", "description": "Zipline through indigenous forest canopy above the Storms River gorge.", "duration": "3 hours", "latitude": -34.0167, "longitude": 23.8833, "priceTierCostUsd": {"budget": 60, "mid-range": 80, "luxury": 110}},
+      {"name": "Knysna Lagoon Boat Cruise", "description": "Cruise the lagoon past the famous sandstone Heads.", "duration": "2 hours", "latitude": -34.0351, "longitude": 23.0465, "priceTierCostUsd": {"budget": 25, "mid-range": 40, "luxury": 65}}
+    ],
+    "Addo Elephant National Park": [
+      {"name": "Full-Day Game Drive", "description": "Search for elephants, buffalo, and the rare flightless dung beetle.", "duration": "6-8 hours", "latitude": -33.4833, "longitude": 25.75, "priceTierCostUsd": {"budget": 70, "mid-range": 110, "luxury": 180}}
+    ],
+    "Hermanus": [
+      {"name": "Land-Based Whale Watching Walk", "description": "Walk the cliff path to spot Southern Right whales close to shore.", "duration": "2-3 hours", "latitude": -34.4187, "longitude": 19.2345, "priceTierCostUsd": {"budget": 0, "mid-range": 0, "luxury": 0}},
+      {"name": "Shark Cage Diving", "description": "Cage dive with great white sharks in Walker Bay.", "duration": "Half-Day", "latitude": -34.4187, "longitude": 19.2345, "priceTierCostUsd": {"budget": 150, "mid-range": 180, "luxury": 220}}
+    ],
+    "Drakensberg Mountains": [
+      {"name": "Amphitheatre Day Hike", "description": "Hike toward Tugela Falls, the world's second-highest waterfall.", "duration": "Full Day", "latitude": -28.75, "longitude": 28.9167, "priceTierCostUsd": {"budget": 20, "mid-range": 40, "luxury": 80}},
+      {"name": "San Rock Art Tour", "description": "Guided visit to ancient San bushman rock painting sites.", "duration": "3 hours", "latitude": -29.0, "longitude": 29.4167, "priceTierCostUsd": {"budget": 25, "mid-range": 40, "luxury": 60}}
+    ],
+
+    "Nairobi National Park": [
+      {"name": "Morning Game Drive with City Skyline Views", "description": "Spot rhino, lion, and giraffe with Nairobi's skyscrapers in the backdrop.", "duration": "3-4 hours", "latitude": -1.3667, "longitude": 36.8333, "priceTierCostUsd": {"budget": 45, "mid-range": 65, "luxury": 100}},
+      {"name": "David Sheldrick Elephant Orphanage Visit", "description": "Watch keepers feed and care for rescued baby elephants.", "duration": "1 hour", "latitude": -1.3733, "longitude": 36.7472, "priceTierCostUsd": {"budget": 10, "mid-range": 10, "luxury": 10}}
+    ],
+    "Samburu National Reserve": [
+      {"name": "Samburu Special Five Game Drive", "description": "Track rare species found only in Kenya's northern reserves.", "duration": "Full Day", "latitude": 0.5833, "longitude": 37.5333, "priceTierCostUsd": {"budget": 80, "mid-range": 120, "luxury": 200}},
+      {"name": "Samburu Village Cultural Visit", "description": "Meet local Samburu community members and learn about traditions.", "duration": "1-2 hours", "latitude": 0.5833, "longitude": 37.5333, "priceTierCostUsd": {"budget": 25, "mid-range": 40, "luxury": 60}}
+    ],
+    "Lake Nakuru National Park": [
+      {"name": "Flamingo and Rhino Game Drive", "description": "Circle the alkaline lake shoreline in search of pink flamingo flocks.", "duration": "Half-Day", "latitude": -0.3667, "longitude": 36.1, "priceTierCostUsd": {"budget": 60, "mid-range": 90, "luxury": 140}}
+    ],
+    "Mount Kenya National Park": [
+      {"name": "Sirimon Route Trek to Point Lenana", "description": "Multi-day trek through five distinct vegetation zones to the summit area.", "duration": "3-5 days", "latitude": -0.1521, "longitude": 37.3084, "priceTierCostUsd": {"budget": 500, "mid-range": 800, "luxury": 1400}}
+    ],
+    "Watamu": [
+      {"name": "Watamu Marine Park Snorkeling", "description": "Snorkel vibrant coral gardens teeming with tropical fish.", "duration": "3 hours", "latitude": -3.35, "longitude": 40.0167, "priceTierCostUsd": {"budget": 30, "mid-range": 50, "luxury": 80}},
+      {"name": "Deep-Sea Sport Fishing", "description": "Chase sailfish and marlin off the Watamu coast.", "duration": "Half-Day", "latitude": -3.35, "longitude": 40.0167, "priceTierCostUsd": {"budget": 180, "mid-range": 280, "luxury": 450}}
+    ],
+
+    "Ruaha National Park": [
+      {"name": "Remote Game Drive Safari", "description": "Explore Tanzania's largest park with far fewer visitors than the northern circuit.", "duration": "Full Day", "latitude": -7.5, "longitude": 34.5, "priceTierCostUsd": {"budget": 90, "mid-range": 140, "luxury": 240}}
+    ],
+    "Selous Game Reserve (Nyerere National Park)": [
+      {"name": "Rufiji River Boat Safari", "description": "Float past hippos and crocodiles on a guided boat safari.", "duration": "2-3 hours", "latitude": -8.0, "longitude": 37.0, "priceTierCostUsd": {"budget": 60, "mid-range": 90, "luxury": 140}},
+      {"name": "Walking Safari with Armed Ranger", "description": "On-foot tracking of wildlife signs and smaller species.", "duration": "2-4 hours", "latitude": -8.0, "longitude": 37.0, "priceTierCostUsd": {"budget": 50, "mid-range": 80, "luxury": 130}}
+    ],
+    "Lake Manyara National Park": [
+      {"name": "Tree-Climbing Lion Game Drive", "description": "Search the acacia woodlands for Manyara's famous tree-climbing lions.", "duration": "Half-Day", "latitude": -3.5833, "longitude": 35.8167, "priceTierCostUsd": {"budget": 70, "mid-range": 100, "luxury": 160}}
+    ],
+    "Pemba Island": [
+      {"name": "Misali Island Reef Diving", "description": "Dive pristine reefs at one of East Africa's top diving sites.", "duration": "Half-Day", "latitude": -5.1667, "longitude": 39.75, "priceTierCostUsd": {"budget": 70, "mid-range": 100, "luxury": 160}}
+    ],
+    "Mafia Island": [
+      {"name": "Whale Shark Snorkeling Excursion", "description": "Swim alongside gentle whale sharks in seasonal feeding grounds.", "duration": "Half-Day", "latitude": -7.9167, "longitude": 39.75, "priceTierCostUsd": {"budget": 90, "mid-range": 130, "luxury": 200}}
+    ],
+
+    "South Luangwa National Park": [
+      {"name": "Night Walking Safari", "description": "Track nocturnal predators on foot with an armed, licensed guide.", "duration": "3 hours", "latitude": -12.75, "longitude": 31.75, "priceTierCostUsd": {"budget": 60, "mid-range": 90, "luxury": 150}},
+      {"name": "Leopard Spotting Game Drive", "description": "Evening drive through prime territory for Zambia's famed leopard density.", "duration": "3-4 hours", "latitude": -12.75, "longitude": 31.75, "priceTierCostUsd": {"budget": 70, "mid-range": 100, "luxury": 170}}
+    ],
+    "Lower Zambezi National Park": [
+      {"name": "Canoe Safari on the Zambezi", "description": "Paddle silently past elephants and hippos along the riverbank.", "duration": "3-4 hours", "latitude": -15.6167, "longitude": 29.35, "priceTierCostUsd": {"budget": 70, "mid-range": 100, "luxury": 160}}
+    ],
+    "Kafue National Park": [
+      {"name": "Busanga Plains Game Drive", "description": "Explore vast floodplains known for cheetah and rare antelope species.", "duration": "Full Day", "latitude": -14.75, "longitude": 25.9167, "priceTierCostUsd": {"budget": 80, "mid-range": 120, "luxury": 200}}
+    ],
+    "Lusaka": [
+      {"name": "Lusaka National Museum & Markets Tour", "description": "Explore Zambian history and browse curio and craft markets.", "duration": "3 hours", "latitude": -15.3875, "longitude": 28.3228, "priceTierCostUsd": {"budget": 15, "mid-range": 25, "luxury": 40}}
+    ],
+
+    "Prison Island (Changuu)": [
+      {"name": "Giant Tortoise Sanctuary Visit", "description": "Meet century-old Aldabra giant tortoises and snorkel the surrounding reef.", "duration": "Half-Day", "latitude": -6.1167, "longitude": 39.1667, "priceTierCostUsd": {"budget": 20, "mid-range": 35, "luxury": 55}}
+    ],
+    "Nungwi": [
+      {"name": "Dhow-Building Yard Tour", "description": "Watch craftsmen hand-build traditional wooden dhow boats.", "duration": "1-2 hours", "latitude": -5.7333, "longitude": 39.2833, "priceTierCostUsd": {"budget": 10, "mid-range": 20, "luxury": 35}},
+      {"name": "Sunset Sandbank Snorkel Trip", "description": "Boat out to a shifting sandbank for snorkeling and sunset views.", "duration": "3-4 hours", "latitude": -5.7333, "longitude": 39.2833, "priceTierCostUsd": {"budget": 35, "mid-range": 55, "luxury": 90}}
+    ],
+    "Jozani Chwaka Bay National Park": [
+      {"name": "Red Colobus Monkey Forest Walk", "description": "Guided walk through mahogany forest to see the endemic red colobus monkey.", "duration": "1-2 hours", "latitude": -6.2667, "longitude": 39.4167, "priceTierCostUsd": {"budget": 15, "mid-range": 25, "luxury": 40}}
+    ],
+
+    "Aksum": [
+      {"name": "Obelisks and Ancient Ruins Tour", "description": "Visit the towering granite stelae and the Queen of Sheba's legendary palace ruins.", "duration": "Half-Day", "latitude": 14.1213, "longitude": 38.7167, "priceTierCostUsd": {"budget": 20, "mid-range": 35, "luxury": 60}}
+    ],
+    "Gondar": [
+      {"name": "Royal Enclosure (Fasil Ghebbi) Tour", "description": "Explore the medieval castle complex of Ethiopia's former emperors.", "duration": "2-3 hours", "latitude": 12.6, "longitude": 37.4667, "priceTierCostUsd": {"budget": 15, "mid-range": 30, "luxury": 55}}
+    ],
+    "Danakil Depression": [
+      {"name": "Erta Ale Volcano Trek", "description": "Overnight hike to view one of the world's few permanent lava lakes.", "duration": "2 days", "latitude": 13.6, "longitude": 40.6667, "priceTierCostUsd": {"budget": 300, "mid-range": 450, "luxury": 700}},
+      {"name": "Dallol Sulfur Springs Tour", "description": "Visit the otherworldly, technicolor mineral formations of Dallol.", "duration": "Full Day", "latitude": 14.2417, "longitude": 40.3, "priceTierCostUsd": {"budget": 150, "mid-range": 220, "luxury": 350}}
+    ],
+    "Omo Valley": [
+      {"name": "Tribal Village Cultural Tour", "description": "Visit the Mursi, Hamer, and Karo communities to learn their traditions.", "duration": "Multi-Day", "latitude": 5.5, "longitude": 36.0, "priceTierCostUsd": {"budget": 200, "mid-range": 350, "luxury": 550}}
+    ],
+    "Addis Ababa": [
+      {"name": "National Museum & Lucy Exhibit Tour", "description": "See the famous Australopithecus fossil and Ethiopian imperial artifacts.", "duration": "2-3 hours", "latitude": 9.03, "longitude": 38.74, "priceTierCostUsd": {"budget": 10, "mid-range": 20, "luxury": 40}},
+      {"name": "Ethiopian Coffee Ceremony Experience", "description": "Traditional roasting-to-cup ceremony in the birthplace of coffee.", "duration": "1-2 hours", "latitude": 9.03, "longitude": 38.74, "priceTierCostUsd": {"budget": 10, "mid-range": 20, "luxury": 35}}
+    ],
+
+    "Chefchaouen (The Blue City)": [
+      {"name": "Blue Medina Photography Walk", "description": "Wander the cobalt-painted alleyways of the old town.", "duration": "2-3 hours", "latitude": 35.1688, "longitude": -5.2636, "priceTierCostUsd": {"budget": 10, "mid-range": 25, "luxury": 50}}
+    ],
+    "Casablanca": [
+      {"name": "Hassan II Mosque Guided Tour", "description": "Tour one of the world's largest mosques, perched over the Atlantic.", "duration": "1.5 hours", "latitude": 33.6084, "longitude": -7.6325, "priceTierCostUsd": {"budget": 15, "mid-range": 25, "luxury": 45}}
+    ],
+    "Atlas Mountains (Toubkal Region)": [
+      {"name": "Toubkal Summit Trek", "description": "Two-day ascent of North Africa's highest peak.", "duration": "2 days", "latitude": 31.0595, "longitude": -7.9128, "priceTierCostUsd": {"budget": 150, "mid-range": 250, "luxury": 400}},
+      {"name": "Berber Village Day Hike", "description": "Trek through terraced valleys to visit traditional Berber villages.", "duration": "Full Day", "latitude": 31.1333, "longitude": -7.85, "priceTierCostUsd": {"budget": 40, "mid-range": 65, "luxury": 100}}
+    ],
+    "Rabat": [
+      {"name": "Kasbah of the Udayas Walking Tour", "description": "Explore the fortified kasbah overlooking the Bou Regreg river.", "duration": "2 hours", "latitude": 34.0247, "longitude": -6.8354, "priceTierCostUsd": {"budget": 10, "mid-range": 20, "luxury": 40}}
+    ],
+
+    "Cairo (Islamic & Coptic Quarters)": [
+      {"name": "Khan el-Khalili Bazaar Tour", "description": "Explore one of the Middle East's oldest and largest markets.", "duration": "2-3 hours", "latitude": 30.0475, "longitude": 31.2622, "priceTierCostUsd": {"budget": 10, "mid-range": 20, "luxury": 40}},
+      {"name": "Egyptian Museum Guided Tour", "description": "See treasures of Tutankhamun and thousands of ancient artifacts.", "duration": "3 hours", "latitude": 30.0478, "longitude": 31.2336, "priceTierCostUsd": {"budget": 20, "mid-range": 35, "luxury": 70}}
+    ],
+    "Abu Simbel": [
+      {"name": "Great and Small Temple Tour", "description": "Marvel at the colossal statues of Ramesses II and Queen Nefertari.", "duration": "2-3 hours", "latitude": 22.3372, "longitude": 31.6258, "priceTierCostUsd": {"budget": 15, "mid-range": 30, "luxury": 60}}
+    ],
+    "Nile River Cruise (Aswan to Luxor)": [
+      {"name": "Multi-Day Nile Cruise with Temple Stops", "description": "Sail past Kom Ombo and Edfu temples aboard a traditional cruise ship.", "duration": "3-5 days", "latitude": 24.5, "longitude": 32.85, "priceTierCostUsd": {"budget": 400, "mid-range": 700, "luxury": 1500}},
+      {"name": "Felucca Sunset Sail", "description": "Traditional wooden sailboat ride on the Nile at Aswan.", "duration": "1-2 hours", "latitude": 24.0889, "longitude": 32.8998, "priceTierCostUsd": {"budget": 15, "mid-range": 25, "luxury": 45}}
+    ],
+    "Red Sea Riviera (Hurghada & Sharm El Sheikh)": [
+      {"name": "Coral Reef Diving Excursion", "description": "Explore vibrant reef systems teeming with tropical marine life.", "duration": "Half-Day", "latitude": 27.2579, "longitude": 33.8116, "priceTierCostUsd": {"budget": 60, "mid-range": 100, "luxury": 180}},
+      {"name": "Ras Mohammed National Park Snorkel Trip", "description": "Boat trip to Sharm's iconic marine protected area.", "duration": "Full Day", "latitude": 27.7333, "longitude": 34.25, "priceTierCostUsd": {"budget": 50, "mid-range": 80, "luxury": 140}}
+    ],
+    "Siwa Oasis": [
+      {"name": "Great Sand Sea 4x4 Safari", "description": "Dune-bash and sandboard across towering desert dunes.", "duration": "Half-Day", "latitude": 29.2041, "longitude": 25.5195, "priceTierCostUsd": {"budget": 50, "mid-range": 80, "luxury": 130}},
+      {"name": "Cleopatra's Bath & Salt Lakes Tour", "description": "Swim in mineral-rich spring pools amid ancient ruins.", "duration": "2-3 hours", "latitude": 29.2, "longitude": 25.5, "priceTierCostUsd": {"budget": 15, "mid-range": 25, "luxury": 45}}
     ],
     "Lalibela": [
       {"name": "Rock-Hewn Churches Tour", "description": "Guided tour of the 11 monolithic churches carved from volcanic rock.", "duration": "Full Day", "latitude": 12.0316, "longitude": 39.0473, "priceTierCostUsd": {"budget": 50, "mid-range": 50, "luxury": 50}}
