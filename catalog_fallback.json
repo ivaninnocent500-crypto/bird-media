@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generatedAt": "2026-07-03T00:00:00Z",
+  "version": 2,
+  "generatedAt": "2026-07-05T00:00:00Z",
   "destinations": [
     {"id": 1, "name": "Serengeti National Park", "imageUrl": "https://images.africasafariguide.app/serengeti.jpg", "description": "Home of the Great Migration and endless plains.", "category": "Safari", "vibe": "Adventure,Wildlife,Photography", "country": "Tanzania", "latitude": -2.3333, "longitude": 34.8333, "minRecommendedDays": 2, "maxUsefulDays": 4, "bestMonths": [6,7,8,9,10]},
     {"id": 2, "name": "Ngorongoro Crater", "imageUrl": "https://images.africasafariguide.app/ngorongoro.jpg", "description": "A UNESCO World Heritage site and natural wonder.", "category": "Safari", "vibe": "Adventure,Culture", "country": "Tanzania", "latitude": -3.2, "longitude": 35.5, "minRecommendedDays": 1, "maxUsefulDays": 2},
@@ -21,7 +21,21 @@
     {"id": 17, "name": "Valley of the Kings", "imageUrl": "https://images.africasafariguide.app/valleykings.jpg", "description": "Tombs constructed for Pharaohs and nobles of the New Kingdom.", "category": "Historical Landmark", "vibe": "Ancient History,Archeology", "country": "Egypt", "latitude": 25.74, "longitude": 32.6, "minRecommendedDays": 1, "maxUsefulDays": 2},
     {"id": 18, "name": "Marrakesh (The Red City)", "imageUrl": "https://images.africasafariguide.app/marrakech.jpg", "description": "Vibrant city known for its souks and historic medina.", "category": "Major City", "vibe": "Culture,Shopping,Architecture", "country": "Morocco", "latitude": 31.6295, "longitude": -7.9811, "minRecommendedDays": 2, "maxUsefulDays": 4},
     {"id": 19, "name": "Sahara Desert", "imageUrl": "https://images.africasafariguide.app/sahara.jpg", "description": "World's largest hot desert.", "category": "Desert", "vibe": "Adventure,Exploration,Photography", "country": "Morocco", "latitude": 31.1, "longitude": -4.0, "minRecommendedDays": 1, "maxUsefulDays": 2},
-    {"id": 20, "name": "Seychelles Islands", "imageUrl": "https://images.africasafariguide.app/seychelles.jpg", "description": "Archipelago known for pristine beaches and granite boulders.", "category": "Island Paradise", "vibe": "Beach,Luxury,Nature,Diving", "country": "Seychelles", "latitude": -4.6796, "longitude": 55.4518, "minRecommendedDays": 3, "maxUsefulDays": 7}
+    {"id": 20, "name": "Seychelles Islands", "imageUrl": "https://images.africasafariguide.app/seychelles.jpg", "description": "Archipelago known for pristine beaches and granite boulders.", "category": "Island Paradise", "vibe": "Beach,Luxury,Nature,Diving", "country": "Seychelles", "latitude": -4.6796, "longitude": 55.4518, "minRecommendedDays": 3, "maxUsefulDays": 7},
+
+    {"id": 21, "name": "Chobe National Park", "imageUrl": "https://images.africasafariguide.app/chobe.jpg", "description": "Riverfront park famed for having Africa's largest elephant population.", "category": "National Park", "vibe": "Wildlife Safari,River Cruise,Photography", "country": "Botswana", "latitude": -18.6, "longitude": 24.9167, "minRecommendedDays": 1, "maxUsefulDays": 3, "bestMonths": [5,6,7,8,9]},
+    {"id": 22, "name": "Etosha National Park", "imageUrl": "https://images.africasafariguide.app/etosha.jpg", "description": "Vast salt pan surrounded by waterholes drawing huge herds of wildlife.", "category": "National Park", "vibe": "Wildlife Safari,Self-Drive,Photography", "country": "Namibia", "latitude": -18.8318, "longitude": 16.3411, "minRecommendedDays": 2, "maxUsefulDays": 4, "bestMonths": [6,7,8,9]},
+    {"id": 23, "name": "Skeleton Coast", "imageUrl": "https://images.africasafariguide.app/skeletoncoast.jpg", "description": "Fog-shrouded shipwreck coastline and remote desert wilderness.", "category": "Nature", "vibe": "Adventure,Desert,Photography", "country": "Namibia", "latitude": -20.0, "longitude": 13.0, "minRecommendedDays": 1, "maxUsefulDays": 3},
+    {"id": 24, "name": "Fes (Fez Medina)", "imageUrl": "https://images.africasafariguide.app/fes.jpg", "description": "The world's largest car-free urban area, home to ancient tanneries and madrasas.", "category": "Historical City", "vibe": "Culture,History,Shopping", "country": "Morocco", "latitude": 34.0331, "longitude": -5.0003, "minRecommendedDays": 2, "maxUsefulDays": 3},
+    {"id": 25, "name": "Essaouira", "imageUrl": "https://images.africasafariguide.app/essaouira.jpg", "description": "Breezy Atlantic port town with a walled medina and windsurfing beaches.", "category": "Coastal Town", "vibe": "Relaxation,Culture,Coastal", "country": "Morocco", "latitude": 31.5085, "longitude": -9.7595, "minRecommendedDays": 1, "maxUsefulDays": 3},
+    {"id": 26, "name": "Karnak Temple (Luxor)", "imageUrl": "https://images.africasafariguide.app/karnak.jpg", "description": "Massive temple complex on the east bank of the Nile at Luxor.", "category": "Historical Landmark", "vibe": "Ancient History,Archeology,Culture", "country": "Egypt", "latitude": 25.7188, "longitude": 32.6573, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 27, "name": "Robben Island", "imageUrl": "https://images.africasafariguide.app/robbenisland.jpg", "description": "UNESCO site and former prison where Nelson Mandela was held.", "category": "Historical Landmark", "vibe": "History,Culture", "country": "South Africa", "latitude": -33.8067, "longitude": 18.3667, "minRecommendedDays": 1, "maxUsefulDays": 1},
+    {"id": 28, "name": "Blyde River Canyon", "imageUrl": "https://images.africasafariguide.app/blyderiver.jpg", "description": "One of the largest canyons on Earth, with dramatic viewpoints along the Panorama Route.", "category": "Nature", "vibe": "Adventure,Photography,Hiking", "country": "South Africa", "latitude": -24.5836, "longitude": 30.8078, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 29, "name": "Diani Beach", "imageUrl": "https://images.africasafariguide.app/dianibeach.jpg", "description": "Powder-white beach on Kenya's south coast, popular for kite-surfing.", "category": "Beach", "vibe": "Relaxation,Beach,Watersports", "country": "Kenya", "latitude": -4.2802, "longitude": 39.5908, "minRecommendedDays": 2, "maxUsefulDays": 5},
+    {"id": 30, "name": "Ol Pejeta Conservancy", "imageUrl": "https://images.africasafariguide.app/olpejeta.jpg", "description": "Leading rhino sanctuary and home to the last northern white rhinos.", "category": "Safari", "vibe": "Wildlife,Conservation,Photography", "country": "Kenya", "latitude": 0.0167, "longitude": 36.9333, "minRecommendedDays": 1, "maxUsefulDays": 2},
+    {"id": 31, "name": "Lake Malawi", "imageUrl": "https://images.africasafariguide.app/lakemalawi.jpg", "description": "Africa's third-largest lake, prized for diving, snorkeling, and freshwater beaches.", "category": "Lake", "vibe": "Relaxation,Diving,Nature", "country": "Malawi", "latitude": -12.3, "longitude": 34.5, "minRecommendedDays": 2, "maxUsefulDays": 5},
+    {"id": 32, "name": "Simien Mountains National Park", "imageUrl": "https://images.africasafariguide.app/simien.jpg", "description": "Dramatic escarpments and jagged peaks, home to the endemic gelada monkey.", "category": "Mountain", "vibe": "Adventure,Hiking,Wildlife", "country": "Ethiopia", "latitude": 13.25, "longitude": 38.0, "minRecommendedDays": 2, "maxUsefulDays": 5},
+    {"id": 33, "name": "Lalibela", "imageUrl": "https://images.africasafariguide.app/lalibela.jpg", "description": "UNESCO site famed for its 12th-century monolithic rock-hewn churches.", "category": "Historical Landmark", "vibe": "Culture,History,Religion", "country": "Ethiopia", "latitude": 12.0316, "longitude": 39.0473, "minRecommendedDays": 1, "maxUsefulDays": 2}
   ],
   "activities": {
     "Serengeti National Park": [
@@ -58,6 +72,44 @@
     ],
     "Mount Kilimanjaro": [
       {"name": "Trekking to the Summit", "description": "Multi-day trek to Uhuru Peak via Machame/Lemosho route.", "duration": "5-9 days", "latitude": -3.0674, "longitude": 37.3556, "priceTierCostUsd": {"budget": 1800, "mid-range": 2500, "luxury": 4000}}
+    ],
+    "Chobe National Park": [
+      {"name": "Chobe River Sunset Cruise", "description": "Boat safari along the riverbank to view elephant herds and hippos.", "duration": "2-3 hours", "latitude": -18.6, "longitude": 24.9167, "priceTierCostUsd": {"budget": 45, "mid-range": 65, "luxury": 100}},
+      {"name": "Full-Day Game Drive", "description": "Explore the park's floodplains, home to enormous elephant herds.", "duration": "6-8 hours", "latitude": -18.6, "longitude": 24.9167, "priceTierCostUsd": {"budget": 90, "mid-range": 130, "luxury": 220}}
+    ],
+    "Etosha National Park": [
+      {"name": "Waterhole Game Drive", "description": "Self-drive or guided circuit between floodlit waterholes.", "duration": "Full Day", "latitude": -18.8318, "longitude": 16.3411, "priceTierCostUsd": {"budget": 60, "mid-range": 100, "luxury": 180}},
+      {"name": "Night Game Drive at a Floodlit Waterhole", "description": "Evening wildlife viewing from a lodge-side hide.", "duration": "2-3 hours", "latitude": -18.8318, "longitude": 16.3411, "priceTierCostUsd": {"budget": 40, "mid-range": 60, "luxury": 90}}
+    ],
+    "Fes (Fez Medina)": [
+      {"name": "Medina and Tannery Walking Tour", "description": "Guided walk through the ancient medina and Chouara leather tanneries.", "duration": "3-4 hours", "latitude": 34.0331, "longitude": -5.0003, "priceTierCostUsd": {"budget": 20, "mid-range": 35, "luxury": 60}}
+    ],
+    "Karnak Temple (Luxor)": [
+      {"name": "Karnak and Luxor Temple Tour", "description": "Guided exploration of the temple complex's hypostyle hall and obelisks.", "duration": "3-4 hours", "latitude": 25.7188, "longitude": 32.6573, "priceTierCostUsd": {"budget": 20, "mid-range": 40, "luxury": 90}},
+      {"name": "Sound and Light Show", "description": "Evening narrated light show among the temple ruins.", "duration": "1.5 hours", "latitude": 25.7188, "longitude": 32.6573, "priceTierCostUsd": {"budget": 20, "mid-range": 30, "luxury": 45}}
+    ],
+    "Robben Island": [
+      {"name": "Robben Island Ferry and Prison Tour", "description": "Ferry from Cape Town's V&A Waterfront with tour led by former political prisoners.", "duration": "3.5 hours", "latitude": -33.8067, "longitude": 18.3667, "priceTierCostUsd": {"budget": 35, "mid-range": 35, "luxury": 35}}
+    ],
+    "Blyde River Canyon": [
+      {"name": "Panorama Route Scenic Tour", "description": "Visit God's Window, Bourke's Luck Potholes, and the Three Rondavels viewpoint.", "duration": "Full Day", "latitude": -24.5836, "longitude": 30.8078, "priceTierCostUsd": {"budget": 60, "mid-range": 90, "luxury": 150}}
+    ],
+    "Diani Beach": [
+      {"name": "Kite-Surfing Lesson", "description": "Beginner lesson in the reef-protected lagoon.", "duration": "2 hours", "latitude": -4.2802, "longitude": 39.5908, "priceTierCostUsd": {"budget": 50, "mid-range": 70, "luxury": 100}},
+      {"name": "Dhow Sunset Sail", "description": "Traditional sailboat cruise along the coastline.", "duration": "2-3 hours", "latitude": -4.2802, "longitude": 39.5908, "priceTierCostUsd": {"budget": 40, "mid-range": 60, "luxury": 90}}
+    ],
+    "Ol Pejeta Conservancy": [
+      {"name": "Rhino Sanctuary Tour", "description": "Visit the last northern white rhinos and a chimpanzee sanctuary.", "duration": "3-4 hours", "latitude": 0.0167, "longitude": 36.9333, "priceTierCostUsd": {"budget": 90, "mid-range": 120, "luxury": 180}}
+    ],
+    "Lake Malawi": [
+      {"name": "Snorkeling with Cichlid Fish", "description": "Explore clear freshwater reefs teeming with colorful cichlids.", "duration": "2-3 hours", "latitude": -12.3, "longitude": 34.5, "priceTierCostUsd": {"budget": 25, "mid-range": 40, "luxury": 60}},
+      {"name": "Lake Cruise to Cape Maclear", "description": "Boat trip along the southern lakeshore.", "duration": "Half-Day", "latitude": -12.3, "longitude": 34.5, "priceTierCostUsd": {"budget": 30, "mid-range": 50, "luxury": 80}}
+    ],
+    "Simien Mountains National Park": [
+      {"name": "Multi-Day Trek", "description": "Trek along dramatic escarpments to spot gelada monkeys and Walia ibex.", "duration": "2-5 days", "latitude": 13.25, "longitude": 38.0, "priceTierCostUsd": {"budget": 250, "mid-range": 400, "luxury": 700}}
+    ],
+    "Lalibela": [
+      {"name": "Rock-Hewn Churches Tour", "description": "Guided tour of the 11 monolithic churches carved from volcanic rock.", "duration": "Full Day", "latitude": 12.0316, "longitude": 39.0473, "priceTierCostUsd": {"budget": 50, "mid-range": 50, "luxury": 50}}
     ]
   },
   "accommodations": {},
@@ -66,6 +118,7 @@
     {"code": "DAR", "country": "Tanzania", "cityName": "Dar es Salaam", "latitude": -6.8781, "longitude": 39.2026},
     {"code": "ZNZ", "country": "Tanzania", "cityName": "Zanzibar", "latitude": -6.2220, "longitude": 39.2249},
     {"code": "NBO", "country": "Kenya", "cityName": "Nairobi", "latitude": -1.3192, "longitude": 36.9278},
+    {"code": "MBA", "country": "Kenya", "cityName": "Mombasa", "latitude": -4.0435, "longitude": 39.6682},
     {"code": "EBB", "country": "Uganda", "cityName": "Entebbe", "latitude": 0.0424, "longitude": 32.4436},
     {"code": "KGL", "country": "Rwanda", "cityName": "Kigali", "latitude": -1.9686, "longitude": 30.1395},
     {"code": "CPT", "country": "South Africa", "cityName": "Cape Town", "latitude": -33.9648, "longitude": 18.6017},
@@ -73,10 +126,13 @@
     {"code": "LVI", "country": "Zambia", "cityName": "Livingstone", "latitude": -17.8218, "longitude": 25.8228},
     {"code": "HRE", "country": "Zimbabwe", "cityName": "Harare", "latitude": -17.9318, "longitude": 31.0928},
     {"code": "MUB", "country": "Botswana", "cityName": "Maun", "latitude": -19.9726, "longitude": 23.4189},
+    {"code": "BBK", "country": "Botswana", "cityName": "Kasane", "latitude": -17.8319, "longitude": 25.1628},
     {"code": "WDH", "country": "Namibia", "cityName": "Windhoek", "latitude": -22.4799, "longitude": 17.4709},
     {"code": "CAI", "country": "Egypt", "cityName": "Cairo", "latitude": 30.1219, "longitude": 31.4056},
     {"code": "RAK", "country": "Morocco", "cityName": "Marrakesh", "latitude": 31.6069, "longitude": -8.0363},
-    {"code": "SEZ", "country": "Seychelles", "cityName": "Mahé", "latitude": -4.6743, "longitude": 55.5218}
+    {"code": "SEZ", "country": "Seychelles", "cityName": "Mahé", "latitude": -4.6743, "longitude": 55.5218},
+    {"code": "LLW", "country": "Malawi", "cityName": "Lilongwe", "latitude": -13.7894, "longitude": 33.7712},
+    {"code": "ADD", "country": "Ethiopia", "cityName": "Addis Ababa", "latitude": 8.9806, "longitude": 38.7578}
   ],
   "destinationToHub": {
     "Serengeti National Park": "JRO", "Ngorongoro Crater": "JRO", "Tarangire National Park": "JRO",
@@ -87,7 +143,12 @@
     "Victoria Falls": "LVI", "Okavango Delta": "MUB", "Sossusvlei (Namib Desert)": "WDH",
     "Pyramids of Giza": "CAI", "Valley of the Kings": "CAI",
     "Marrakesh (The Red City)": "RAK", "Sahara Desert": "RAK",
-    "Seychelles Islands": "SEZ"
+    "Seychelles Islands": "SEZ",
+    "Chobe National Park": "BBK", "Etosha National Park": "WDH", "Skeleton Coast": "WDH",
+    "Fes (Fez Medina)": "RAK", "Essaouira": "RAK", "Karnak Temple (Luxor)": "CAI",
+    "Robben Island": "CPT", "Blyde River Canyon": "JNB",
+    "Diani Beach": "MBA", "Ol Pejeta Conservancy": "NBO",
+    "Lake Malawi": "LLW", "Simien Mountains National Park": "ADD", "Lalibela": "ADD"
   },
   "interHubFlights": [
     {"originCode": "NBO", "destinationCode": "JRO", "durationHours": 1.0, "airlines": "Kenya Airways, Precision Air", "requiresLayovers": false, "estimatedCostUsd": 180, "frequency": "daily"},
@@ -104,11 +165,18 @@
     {"originCode": "JNB", "destinationCode": "CAI", "durationHours": 8.5, "airlines": "EgyptAir (via Addis Ababa or Nairobi)", "requiresLayovers": true, "estimatedCostUsd": 650, "frequency": "few-weekly"},
     {"originCode": "CAI", "destinationCode": "RAK", "durationHours": 7.0, "airlines": "Royal Air Maroc, EgyptAir (via Casablanca)", "requiresLayovers": true, "estimatedCostUsd": 550, "frequency": "few-weekly"},
     {"originCode": "NBO", "destinationCode": "SEZ", "durationHours": 4.0, "airlines": "Kenya Airways", "requiresLayovers": false, "estimatedCostUsd": 500, "frequency": "few-weekly"},
-    {"originCode": "JNB", "destinationCode": "SEZ", "durationHours": 4.5, "airlines": "Air Seychelles", "requiresLayovers": false, "estimatedCostUsd": 520, "frequency": "few-weekly"}
+    {"originCode": "JNB", "destinationCode": "SEZ", "durationHours": 4.5, "airlines": "Air Seychelles", "requiresLayovers": false, "estimatedCostUsd": 520, "frequency": "few-weekly"},
+    {"originCode": "NBO", "destinationCode": "MBA", "durationHours": 0.8, "airlines": "Kenya Airways, Jambojet", "requiresLayovers": false, "estimatedCostUsd": 100, "frequency": "daily"},
+    {"originCode": "JNB", "destinationCode": "BBK", "durationHours": 2.3, "airlines": "Airlink", "requiresLayovers": false, "estimatedCostUsd": 340, "frequency": "daily"},
+    {"originCode": "MUB", "destinationCode": "BBK", "durationHours": 1.0, "airlines": "Air Botswana", "requiresLayovers": false, "estimatedCostUsd": 180, "frequency": "few-weekly"},
+    {"originCode": "JNB", "destinationCode": "LLW", "durationHours": 2.0, "airlines": "Malawian Airlines, Airlink", "requiresLayovers": false, "estimatedCostUsd": 380, "frequency": "daily"},
+    {"originCode": "NBO", "destinationCode": "ADD", "durationHours": 2.0, "airlines": "Ethiopian Airlines, Kenya Airways", "requiresLayovers": false, "estimatedCostUsd": 300, "frequency": "daily"},
+    {"originCode": "ADD", "destinationCode": "CAI", "durationHours": 3.5, "airlines": "Ethiopian Airlines, EgyptAir", "requiresLayovers": false, "estimatedCostUsd": 420, "frequency": "daily"}
   ],
   "attractionCosts": {
     "Uganda": {"Bwindi Impenetrable Forest": {"Gorilla Trekking": {"budget": 700, "mid-range": 700, "luxury": 700}}},
-    "Rwanda": {"Volcanoes National Park": {"Gorilla Trekking Permit": {"budget": 1500, "mid-range": 1500, "luxury": 1500}}}
+    "Rwanda": {"Volcanoes National Park": {"Gorilla Trekking Permit": {"budget": 1500, "mid-range": 1500, "luxury": 1500}}},
+    "Ethiopia": {"Simien Mountains National Park": {"Park Entry & Scout/Guide Fees": {"budget": 55, "mid-range": 55, "luxury": 55}}}
   },
   "baseCosts": {
     "accommodationUsdPerNight": {"budget": 40, "mid-range": 100, "luxury": 280},
@@ -119,7 +187,11 @@
       "Maasai Mara National Reserve": 2.5, "Amboseli National Park": 1.8,
       "Mount Kilimanjaro": 2.0, "Table Mountain": 1.4, "Victoria Falls": 1.2,
       "Bwindi Impenetrable Forest": 2.3, "Volcanoes National Park": 2.6,
-      "Seychelles Islands": 2.0
+      "Seychelles Islands": 2.0,
+      "Chobe National Park": 2.1, "Etosha National Park": 1.6, "Skeleton Coast": 1.7,
+      "Karnak Temple (Luxor)": 1.1, "Robben Island": 1.0, "Diani Beach": 1.2,
+      "Ol Pejeta Conservancy": 1.9, "Lake Malawi": 1.0, "Simien Mountains National Park": 1.8,
+      "Lalibela": 1.1
     }
   },
   "visaRules": [
@@ -134,6 +206,9 @@
     {"country": "Namibia", "passportGroup": "most-nationalities", "requirement": "VISA_FREE", "notes": "Most nationalities visa-exempt for short stays; verify against your passport.", "maxStayDays": 90},
     {"country": "Egypt", "passportGroup": "most-nationalities", "requirement": "E_VISA_REQUIRED", "notes": "e-Visa available online for most nationalities; visa on arrival also offered at some airports.", "evisaUrl": "https://visa2egypt.gov.eg", "maxStayDays": 30},
     {"country": "Morocco", "passportGroup": "most-nationalities", "requirement": "VISA_FREE", "notes": "Many nationalities visa-exempt for tourist stays up to 90 days; verify against your passport.", "maxStayDays": 90},
-    {"country": "Seychelles", "passportGroup": "most-nationalities", "requirement": "VISA_ON_ARRIVAL", "notes": "A free visitor's permit is issued on arrival to all nationalities, subject to proof of accommodation and return ticket.", "maxStayDays": 90}
+    {"country": "Seychelles", "passportGroup": "most-nationalities", "requirement": "VISA_ON_ARRIVAL", "notes": "A free visitor's permit is issued on arrival to all nationalities, subject to proof of accommodation and return ticket.", "maxStayDays": 90},
+    {"country": "Malawi", "passportGroup": "most-nationalities", "requirement": "VISA_ON_ARRIVAL", "notes": "Visa on arrival available for most nationalities at major entry points; an e-visa option also exists for advance approval.", "evisaUrl": "https://evisa.gov.mw", "maxStayDays": 90},
+    {"country": "Ethiopia", "passportGroup": "most-nationalities", "requirement": "E_VISA_REQUIRED", "notes": "e-Visa required for most nationalities; apply online in advance, as on-arrival options are limited.", "evisaUrl": "https://www.evisa.gov.et", "maxStayDays": 90}
   ]
 }
+
